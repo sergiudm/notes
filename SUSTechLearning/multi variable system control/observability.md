@@ -11,4 +11,11 @@ A state $\mathbf{x_0} ∈ \mathbb{R^n}$ is **unobservable** if the zero-input re
 
 #### Obsevability Gramian
 ![[Pasted image 20241021112039.png]]
+##### Gramian and obvervability
+![[Pasted image 20241021115019.png]]
+How to obtain $x_0$ with zero-input response:
+![[Pasted image 20241021115331.png]]
+![[Pasted image 20241021115421.png]]
+![[Pasted image 20241021115433.png]]
+## Duality
 
