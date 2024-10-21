@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUSTechLearning/multi variable system control/observability.md",
+                "file": "SUSTechLearning/multi variable system control/Observability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "observability"
+              "title": "Observability"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUSTechLearning/multi variable system control/observability.md"
+                "file": "SUSTechLearning/multi variable system control/Observability.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of observability"
+              "title": "Outline of Observability"
             }
           },
           {
@@ -201,7 +201,7 @@
     "images/Pasted image 20241016121912.png",
     "images/Pasted image 20241016121729.png",
     "SUSTechLearning/multi variable system control/controllability.md",
-    "SUSTechLearning/multi variable system control/observability.md",
+    "SUSTechLearning/multi variable system control/Observability.md",
     "SUSTechLearning/multi variable system control/state space model.md",
     "RL/Mathematical Foundations/Tabular methods.md",
     "SUSTechLearning/multi variable system control",
