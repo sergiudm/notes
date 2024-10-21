@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "92180b85045e7316",
+    "type": "split",
+    "children": [
+      {
+        "id": "99df5feab5694264",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87af97662b12a6ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SUSTechLearning/multi variable system control/observability.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "observability"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ec1b7c5803f7746",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf57726758bef055",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8425e6989abaad77",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "060c43d4578214e5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c2bc364b9da5a0ff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4c57bc3d185af364",
+    "type": "split",
+    "children": [
+      {
+        "id": "93cd1d1a0af34a1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e2c0027e666121a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SUSTechLearning/multi variable system control/observability.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for observability"
+            }
+          },
+          {
+            "id": "3b23e18f44db781d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SUSTechLearning/multi variable system control/observability.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from observability"
+            }
+          },
+          {
+            "id": "6ed6040930d1c01a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "37a49f2b98c79076",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SUSTechLearning/multi variable system control/observability.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of observability"
+            }
+          },
+          {
+            "id": "7975555362adca91",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "32e724baf6beafb5",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "publish:Publish changes...": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "87af97662b12a6ed",
+  "lastOpenFiles": [
+    "images/Pasted image 20241021112039.png",
+    "images/Pasted image 20241021105638.png",
+    "images/Pasted image 20241017234607.png",
+    "images/Pasted image 20241017234557.png",
+    "images/Pasted image 20241017234541.png",
+    "images/Pasted image 20241016122150.png",
+    "images/Pasted image 20241016122106.png",
+    "images/Pasted image 20241016122032.png",
+    "images/Pasted image 20241016121920.png",
+    "images/Pasted image 20241016121912.png",
+    "images/Pasted image 20241016121729.png",
+    "SUSTechLearning/multi variable system control/controllability.md",
+    "SUSTechLearning/multi variable system control/observability.md",
+    "SUSTechLearning/multi variable system control/state space model.md",
+    "RL/Mathematical Foundations/Tabular methods.md",
+    "SUSTechLearning/multi variable system control",
+    "HPC/C,C++ techniques/__global__.md",
+    "HPC/C,C++ techniques/__shared__.md",
+    "SUSTechLearning/C++/engineering techniques/cmake.md",
+    "SUSTechLearning/digital circuits/逻辑代数/逻辑符号.md",
+    "SUSTechLearning/digital circuits/逻辑代数/逻辑代数基础.md",
+    "SUSTechLearning/digital circuits/时序逻辑/时序逻辑电路的分析方法.md",
+    "SUSTechLearning/digital circuits/好题/好题.md",
+    "SUSTechLearning/digital circuits/逻辑代数/逻辑函数形式的变换.md",
+    "SUSTechLearning/digital circuits/逻辑代数/各种公式.md",
+    "SUSTechLearning/digital circuits/逻辑代数/最小项和最大项.md",
+    "ROS2/key ingredients/action.md",
+    "ROS2/key ingredients/interface.md",
+    "ROS2/key ingredients/data distribution service.md",
+    "SUSTechLearning/automatic control theory/frequency domain analysis.md",
+    "deep learning/CNN.md",
+    "SUSTechLearning/digital circuits/时序逻辑",
+    "SUSTechLearning/C++/engineering techniques/libraries.md",
+    "SUSTechLearning/C++/engineering techniques/source file management.md",
+    "SUSTechLearning/digital circuits/数制和码制/编码.md",
+    "SUSTechLearning/digital circuits/有用的结论/逻辑代数.md",
+    "deep learning/the backpropagation algorithm.md",
+    "draft/actlab1.md",
+    "draft",
+    "RL/transfer learning",
+    "images",
+    "docker",
+    "ROS2/nav2",
+    "SUSTechLearning/Data structure and algorithms",
+    "plan&task",
+    "SUSTechLearning/digital circuits/好题"
+  ]
+}

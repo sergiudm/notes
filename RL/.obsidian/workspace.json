@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "0b71019b4a149374",
+    "type": "split",
+    "children": [
+      {
+        "id": "3990f0b031f7db86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff1f5a115cb3c102",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematical Foundations/Tabular methods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "682d83f4c7d8919d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b23033d714c701d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c41a8919cb4f823e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dbcda7fbbc5deb9f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "50e82c97cbf4bc4a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0c45a84231636664",
+    "type": "split",
+    "children": [
+      {
+        "id": "62a502ab21342f13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7dc353eb7f671ac6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mathematical Foundations/Tabular methods.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "25a7843321e29e16",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "578bd39c18c713a7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mathematical Foundations/Tabular methods.md"
+              }
+            }
+          },
+          {
+            "id": "a912da10ee4905a6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mathematical Foundations/Tabular methods.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "ff1f5a115cb3c102",
+  "lastOpenFiles": [
+    "Codes",
+    "Mathematical Foundations",
+    "Mathematical Foundations/Tabular methods.md",
+    "Law of Inertia.md",
+    "this is a test.md",
+    "three laws of motion.md",
+    "Welcome.md"
+  ]
+}

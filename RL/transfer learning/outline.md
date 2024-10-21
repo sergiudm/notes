@@ -1,0 +1,30 @@
+- What is tl
+	- A formal definition
+		- Terminologies
+			- Domains
+				- Domain adaptation
+				- Domain generalization
+		- Formulation
+		- ![[Pasted image 20240318232817.png]]
+- Why we need tl
+	- Big Data vs. Less Annotation
+	- Big Data vs. Poor Computation
+	- Limited Data vs. Generalization Requirements
+	- Pervasive Model vs. Personal Need
+	- ![[Pasted image 20240318230027.png]]
+	- 
+- Tl complete process
+	- ![[Pasted image 20240318235233.png]]
+- Methodology: how to transfer
+	- ![[Pasted image 20240318232920.png]]
+	- Classification
+	- ![[Pasted image 20240318233028.png]]
+- Theory
+	- ![[Pasted image 20240318233217.png]]
+- Applications
+	- Cv
+	- Nlp
+- Future directions
+	- ![[Pasted image 20240318233258.png]]
+- Related topics
+	- Tl vs meta learning

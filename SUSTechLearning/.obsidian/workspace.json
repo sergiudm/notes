@@ -1,0 +1,288 @@
+{
+  "main": {
+    "id": "bd05e6d5f1a784e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "52b46421608abf77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28a9887e1898b53c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/OOP/operator overload.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa3102f158b1a7d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/OOP/inheritance.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3060a4be3af8eb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROS2/key ingredients/data distribution service.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79ae44612238f12a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/memory management/smart pointers.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73d5c9192af99839",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "digital circuits/逻辑代数/各种公式.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d48f66434d43363f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "digital circuits/逻辑代数/逻辑符号.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3ee84df00cb384d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffde568981064d14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4d2fe988e59b0a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42226a8d8fa11a0d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "caeb99bb0dc81ee7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "59a3aaef8253572a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d73bca975d8cc85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6eb385b4901f8072",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "digital circuits/逻辑代数/逻辑符号.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "589221c6a0f8d617",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "digital circuits/逻辑代数/逻辑符号.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0fda723530bac1cb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2b7198375fbdb082",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "digital circuits/逻辑代数/逻辑符号.md"
+              }
+            }
+          },
+          {
+            "id": "4d86e756b461ec0a",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "5453275a720a9e91",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "d48f66434d43363f",
+  "lastOpenFiles": [
+    "deep learning/the backpropagation algorithm.md",
+    "digital circuits/逻辑代数/逻辑代数基础.md",
+    "digital circuits/逻辑代数/各种公式.md",
+    "digital circuits/逻辑代数/逻辑符号.md",
+    "digital circuits/逻辑代数/最小项和最大项.md",
+    "digital circuits/有用的结论/逻辑代数.md",
+    "digital circuits/有用的结论",
+    "ROS2/quick cli/node.md",
+    "ROS2/quick cli/package.md",
+    "C++/basics/structs.md",
+    "C++/basics/inline functions.md",
+    "C++/basics/exception handling.md",
+    "C++/engineering techniques/cmake.md",
+    "C++/stl/queue.md",
+    "C++/stl/unordered_map.md",
+    "motion planning",
+    "Pasted image 20240308174024.png",
+    "Pasted image 20240308173742.png",
+    "Pasted image 20240308172410.png",
+    "Recording 20240308165233.webm",
+    "Untitled.canvas",
+    "2024-03-08.md",
+    "Recording 20240308165127.webm",
+    "HPC/vectorization.md",
+    "C++/memory management/smart pointers.md",
+    "deep learning",
+    "C++/OOP/constructor.md",
+    "C++/OOP/destructor.md",
+    "C++/OOP/inheritance.md",
+    "C++/memory management/function pointers.md",
+    "C++/memory management/dynamic memory allocation.md",
+    "C++/OOP/friend classes.md",
+    "C++/OOP/friend functions.md",
+    "C++/OOP/virtual pointers and vtable.md",
+    "C++/OOP/virtual inheritance.md",
+    "C++/stl",
+    "Pasted image 20240307201934.png",
+    "image-20220602204152352.png",
+    "Pasted image 20240307202443.png",
+    "Pasted image 20240307202418.png",
+    "Pasted image 20240307202358.png",
+    "Pasted image 20240307202320.png",
+    "Pasted image 20240307202304.png",
+    "ROS2/quick cli",
+    "C++/engineering techniques",
+    "ROS2/key ingredients",
+    "ROS2"
+  ]
+}
