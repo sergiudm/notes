@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUSTechLearning/multi variable system control/Observability.md",
+                "file": "SUSTechLearning/industrial computer networking/网络层.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Observability"
+              "title": "网络层"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUSTechLearning/multi variable system control/Observability.md"
+                "file": "SUSTechLearning/industrial computer networking/网络层.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Observability"
+              "title": "Outline of 网络层"
             }
           },
           {
@@ -190,19 +190,26 @@
   },
   "active": "87af97662b12a6ed",
   "lastOpenFiles": [
+    "SUSTechLearning/industrial computer networking/数据链路层.md",
+    "SUSTechLearning/industrial computer networking/网络层.md",
+    "SUSTechLearning/industrial computer networking/物理层.md",
+    "新建文件夹",
+    "新建 Text Document.txt",
+    "README.MD",
+    "SUSTechLearning/industrial computer networking/计算机网络概述.md",
+    "images/Pasted image 20241023164834.png",
+    "images/Pasted image 20241023164718.png",
+    "images/Pasted image 20241023164509.png",
+    "images/Pasted image 20241023164443.png",
+    "SUSTechLearning/multi variable system control/Observability.md",
+    "SUSTechLearning/industrial computer networking",
     "images/Pasted image 20241021115433.png",
     "images/Pasted image 20241021115421.png",
     "images/Pasted image 20241021115331.png",
     "images/Pasted image 20241021115019.png",
     "images/Pasted image 20241021112039.png",
     "images/Pasted image 20241021105638.png",
-    "images/Pasted image 20241017234607.png",
-    "images/Pasted image 20241017234557.png",
-    "images/Pasted image 20241017234541.png",
-    "images/Pasted image 20241016122150.png",
-    "images/Pasted image 20241016122106.png",
     "SUSTechLearning/multi variable system control/controllability.md",
-    "SUSTechLearning/multi variable system control/Observability.md",
     "SUSTechLearning/multi variable system control/state space model.md",
     "RL/Mathematical Foundations/Tabular methods.md",
     "SUSTechLearning/multi variable system control",
@@ -224,17 +231,10 @@
     "SUSTechLearning/digital circuits/时序逻辑",
     "SUSTechLearning/C++/engineering techniques/libraries.md",
     "SUSTechLearning/C++/engineering techniques/source file management.md",
-    "SUSTechLearning/digital circuits/数制和码制/编码.md",
-    "SUSTechLearning/digital circuits/有用的结论/逻辑代数.md",
-    "deep learning/the backpropagation algorithm.md",
-    "draft/actlab1.md",
     "draft",
     "RL/transfer learning",
     "images",
     "docker",
-    "ROS2/nav2",
-    "SUSTechLearning/Data structure and algorithms",
-    "plan&task",
-    "SUSTechLearning/digital circuits/好题"
+    "ROS2/nav2"
   ]
 }
