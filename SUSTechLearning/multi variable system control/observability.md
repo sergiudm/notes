@@ -19,3 +19,4 @@ How to obtain $x_0$ with zero-input response:
 ![[Pasted image 20241021115433.png]]
 ## Duality
 
+
