@@ -18,5 +18,19 @@ How to obtain $x_0$ with zero-input response:
 ![[Pasted image 20241021115421.png]]
 ![[Pasted image 20241021115433.png]]
 ## Duality
+Definition of duality:
+![[Pasted image 20241101154319.png]]
+- Properties of dual systems:
+	- Duality implies the interchange of input and output terminals.
+	- Reversal of signal transmission direction.
+	- Swap of summation and extraction points, transpose of corresponding matrices, and time reversal.
+	- Transfer functions:
+		- ![[Pasted image 20241101154500.png]]
+		- Characteristic equation:
+			- ![[Pasted image 20241101154522.png]]
+		- Controllability and observability:
+			- ![[Pasted image 20241101154626.png]]
+
+
 
 
