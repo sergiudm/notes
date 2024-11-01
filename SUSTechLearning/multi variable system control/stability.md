@@ -1,1 +1,5 @@
-## 
+- Two types of stability
+	- Internal stability
+		- Zero-input state response (only depend on $x_0$)
+	- External stability
+		- BIBO stability
