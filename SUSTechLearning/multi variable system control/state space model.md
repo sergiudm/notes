@@ -18,4 +18,5 @@ Strategy:
 In addition, $D=b_n$
 
 ### Block diagram and state space model
+Similar to `Simulink `
 
