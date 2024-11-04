@@ -35,6 +35,10 @@ When `2` is not satisfied:
 > 'A' has to change
 > ![[Pasted image 20241104105542.png]]
 
+##### Multi input/output
+![[Pasted image 20241104113731.png]]
+![[Pasted image 20241104113744.png]]
+![[Pasted image 20241104113804.png]]
 
 ### Block diagram and state space model
 Similar to `Simulink `
