@@ -1,7 +1,7 @@
 >[!note] state-space equation:
 > ![[Pasted image 20241104115847.png]]
 > $x: n \times 1$
-> $u: m \times p$
+> $u: m \times w$
 > $y: m \times p$
 > $A: n \times n$ 
 > $B: n \times m$
