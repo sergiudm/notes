@@ -16,6 +16,8 @@ Strategy:
 Strategy:
 ![[Pasted image 20240914212449.png]]
 In addition, $D=b_n$
+#### Practice
+
 
 ### Block diagram and state space model
 Similar to `Simulink `
