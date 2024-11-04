@@ -17,6 +17,13 @@ Strategy:
 Strategy:
 ![[Pasted image 20240914212449.png]]
 In addition, $D=b_n$
+##### Multiple input/output systems
+![[Pasted image 20241104115429.png]]
+a:
+![[Pasted image 20241104115508.png]]
+![[Pasted image 20241104115611.png]]
+b:
+![[Pasted image 20241104115538.png]]![[Pasted image 20241104115549.png]]
 #### Practice
 ##### When can we use CCF?
 - 1. Coefficient of $y^{(n)}$ and $u(t)$ are both $1$
