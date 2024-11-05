@@ -188,8 +188,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "87af97662b12a6ed",
+  "active": "8425e6989abaad77",
   "lastOpenFiles": [
+    "research",
     "SUSTechLearning/industrial computer networking/物理层.md",
     "SUSTechLearning/industrial computer networking/数据链路层.md",
     "SUSTechLearning/industrial computer networking/计算机网络概述.md",
@@ -213,10 +214,10 @@
     "README.MD",
     "SUSTechLearning/industrial computer networking",
     "SUSTechLearning/multi variable system control/controllability.md",
-    "RL/Mathematical Foundations/Tabular methods.md",
+    "research/RL/Mathematical Foundations/Tabular methods.md",
     "SUSTechLearning/multi variable system control",
-    "HPC/C,C++ techniques/__global__.md",
-    "HPC/C,C++ techniques/__shared__.md",
+    "research/HPC/C,C++ techniques/__global__.md",
+    "research/HPC/C,C++ techniques/__shared__.md",
     "SUSTechLearning/C++/engineering techniques/cmake.md",
     "SUSTechLearning/digital circuits/逻辑代数/逻辑符号.md",
     "SUSTechLearning/digital circuits/逻辑代数/逻辑代数基础.md",
@@ -225,15 +226,15 @@
     "SUSTechLearning/digital circuits/逻辑代数/逻辑函数形式的变换.md",
     "SUSTechLearning/digital circuits/逻辑代数/各种公式.md",
     "SUSTechLearning/digital circuits/逻辑代数/最小项和最大项.md",
-    "ROS2/key ingredients/action.md",
-    "ROS2/key ingredients/interface.md",
-    "ROS2/key ingredients/data distribution service.md",
+    "research/ROS2/key ingredients/action.md",
+    "research/ROS2/key ingredients/interface.md",
+    "research/ROS2/key ingredients/data distribution service.md",
     "SUSTechLearning/automatic control theory/frequency domain analysis.md",
     "SUSTechLearning/digital circuits/时序逻辑",
     "draft",
-    "RL/transfer learning",
+    "research/RL/transfer learning",
     "images",
-    "docker",
-    "ROS2/nav2"
+    "research/docker",
+    "research/ROS2/nav2"
   ]
 }
