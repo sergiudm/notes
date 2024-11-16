@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUSTechLearning/industrial computer networking/运输层.md",
+                "file": "research/linear CV/resource.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "运输层"
+              "title": "resource"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUSTechLearning/industrial computer networking/运输层.md"
+                "file": "research/linear CV/resource.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 运输层"
+              "title": "Outline of resource"
             }
           },
           {
@@ -190,11 +190,13 @@
   },
   "active": "87af97662b12a6ed",
   "lastOpenFiles": [
+    "SUSTechLearning/industrial computer networking/运输层.md",
+    "research/linear CV/resource.md",
+    "research/linear CV",
     "images/Pasted image 20241113172220.png",
     "images/Pasted image 20241113172025.png",
     "images/Pasted image 20241113165918.png",
     "SUSTechLearning/industrial computer networking/计算机网络概述.md",
-    "SUSTechLearning/industrial computer networking/运输层.md",
     "SUSTechLearning/industrial computer networking/数据链路层.md",
     "SUSTechLearning/industrial computer networking/网络层.md",
     "SUSTechLearning/industrial computer networking/物理层.md",
@@ -205,7 +207,6 @@
     "images/Pasted image 20241106122515.png",
     "images/Pasted image 20241106120915.png",
     "images/Pasted image 20241106120513.png",
-    "images/Pasted image 20241106115856.png",
     "[物理层.md",
     "research",
     "SUSTechLearning/multi variable system control/state-space fundamentals.md",
@@ -234,7 +235,6 @@
     "SUSTechLearning/digital circuits/时序逻辑",
     "draft",
     "research/RL/transfer learning",
-    "images",
-    "research/docker"
+    "images"
   ]
 }
