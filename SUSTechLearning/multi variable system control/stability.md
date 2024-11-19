@@ -11,3 +11,8 @@ Three types of state:
 ## Definition of stability
 For $x'(t) = f[x(t)],  x(0)=x_0$
 ![[Pasted image 20241101142231.png]]
+### How to judge stability
+#### Lyapunov method 1
+#### Lyapunov method 2
+
+## BIBO stability

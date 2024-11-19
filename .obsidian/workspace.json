@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/linear CV/Untitled.md",
+                "file": "SUSTechLearning/multi variable system control/stability.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "stability"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research/linear CV/Untitled.md"
+                "file": "SUSTechLearning/multi variable system control/stability.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of stability"
             }
           },
           {
@@ -190,8 +190,8 @@
   },
   "active": "87af97662b12a6ed",
   "lastOpenFiles": [
-    "research/linear CV/resource.md",
     "research/linear CV/Untitled.md",
+    "research/linear CV/resource.md",
     "SUSTechLearning/industrial computer networking/运输层.md",
     "research/linear CV",
     "images/Pasted image 20241113172220.png",
