@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/linear CV/S6.md",
+                "file": "research/linear CV/Vim.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "S6"
+              "title": "Vim"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research/linear CV/S6.md"
+                "file": "research/linear CV/Vim.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of S6"
+              "title": "Outline of Vim"
             }
           },
           {
@@ -190,6 +190,10 @@
   },
   "active": "87af97662b12a6ed",
   "lastOpenFiles": [
+    "images/Pasted image 20241122221930.png",
+    "research/linear CV/resource.md",
+    "research/linear CV/Vim.md",
+    "research/linear CV/S6.md",
     "images/Pasted image 20241121150115.png",
     "images/Pasted image 20241121150104.png",
     "images/Pasted image 20241121145943.png",
@@ -197,8 +201,6 @@
     "images/Pasted image 20241120170434.png",
     "images/Pasted image 20241120165412.png",
     "SUSTechLearning/multi variable system control/stability.md",
-    "research/linear CV/S6.md",
-    "research/linear CV/resource.md",
     "research/linear CV",
     "images/Pasted image 20241113172220.png",
     "images/Pasted image 20241113172025.png",
@@ -209,7 +211,6 @@
     "SUSTechLearning/industrial computer networking/物理层.md",
     "images/Pasted image 20241106124758.png",
     "images/Pasted image 20241106124621.png",
-    "images/Pasted image 20241106124315.png",
     "[物理层.md",
     "research",
     "SUSTechLearning/multi variable system control/state-space fundamentals.md",
@@ -231,7 +232,6 @@
     "SUSTechLearning/digital circuits/好题/好题.md",
     "SUSTechLearning/digital circuits/逻辑代数/逻辑函数形式的变换.md",
     "SUSTechLearning/digital circuits/逻辑代数/各种公式.md",
-    "SUSTechLearning/digital circuits/逻辑代数/最小项和最大项.md",
     "SUSTechLearning/digital circuits/时序逻辑",
     "draft",
     "research/RL/transfer learning",
