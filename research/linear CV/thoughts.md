@@ -1,6 +1,5 @@
 GRU
-![[Pasted image 20241123181003.png]]
-![[Pasted image 20241123181029.png]]
-![[Pasted image 20241123181050.png]]
+
+
 ![[Pasted image 20241123181218.png]]
-![[Pasted image 20241123181234.png]]
+![[Pasted image 20241123181644.png]]
