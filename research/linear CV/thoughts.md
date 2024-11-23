@@ -20,6 +20,11 @@ Step 2: Drop range restriction of candidate states
 
 ## How to achieve linear attention
 - Parallelizable RNNs
+	- S 6
+	- 
 - Modified $sim (Q,K)$
+	- ![[Pasted image 20241123191644.png]]
+	- [线性Attention的探索：Attention必须有个Softmax吗？ - 科学空间|Scientific Spaces](https://spaces.ac.cn/archives/7546)
+- 
 
 ## Higher order reccurence?
