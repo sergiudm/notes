@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/linear CV/thoughts.md",
+                "file": "research/linear CV/Blelloch parallel scan.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "thoughts"
+              "title": "Blelloch parallel scan"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research/linear CV/thoughts.md"
+                "file": "research/linear CV/Blelloch parallel scan.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of thoughts"
+              "title": "Outline of Blelloch parallel scan"
             }
           },
           {
@@ -190,6 +190,8 @@
   },
   "active": "87af97662b12a6ed",
   "lastOpenFiles": [
+    "images/Pasted image 20241123191319.png",
+    "research/linear CV/thoughts.md",
     "images/Pasted image 20241123185952.png",
     "images/Pasted image 20241123185506.png",
     "images/Pasted image 20241123185455.png",
@@ -197,7 +199,6 @@
     "images/Pasted image 20241123185105.png",
     "images/Pasted image 20241123184926.png",
     "research/linear CV/Blelloch parallel scan.md",
-    "research/linear CV/thoughts.md",
     "research/linear CV/bel.md",
     "research/linear CV/Vim.md",
     "research/linear CV/resource.md",
@@ -205,7 +206,6 @@
     "images/Pasted image 20241123181234.png",
     "images/Pasted image 20241123181218.png",
     "images/Pasted image 20241123181050.png",
-    "images/Pasted image 20241123181029.png",
     "SUSTechLearning/industrial computer networking/运输层.md",
     "SUSTechLearning/multi variable system control/stability.md",
     "research/linear CV",
