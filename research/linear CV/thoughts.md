@@ -19,6 +19,7 @@ Step 2: Drop range restriction of candidate states
 
 
 ## How to achieve linear attention
-- Parallel recurrence
+- Parallelizable RNNs
 - Modified $sim (Q,K)$
-- 
+
+## Higher order reccurence?
