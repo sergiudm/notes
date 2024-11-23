@@ -13,6 +13,7 @@ Step 2: Drop range restriction of candidate states
 ![[Pasted image 20241123185217.png]]
 - Why?
 	- ![[Pasted image 20241123185455.png]]
+																	- ![[Pasted image 20241123185952.png]]
 	- ![[Pasted image 20241123185506.png]]
 
 
