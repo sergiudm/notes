@@ -7,6 +7,8 @@
 ### MiniGRU
 Step 1: Drop previous hidden state dependencies from gates
 ![[Pasted image 20241123184926.png]]
+- Why?
+	- ![[Pasted image 20241123185105.png]]
 Step 2: Drop range restriction of candidate states
 
 
