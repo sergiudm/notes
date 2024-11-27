@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUSTechLearning/multi variable system control/stability.md",
-                "mode": "preview",
+                "file": "SUSTechLearning/industrial computer networking/运输层.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "stability"
+              "title": "运输层"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUSTechLearning/multi variable system control/stability.md"
+                "file": "SUSTechLearning/industrial computer networking/运输层.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of stability"
+              "title": "Outline of 运输层"
             }
           },
           {
@@ -190,6 +190,7 @@
   },
   "active": "87af97662b12a6ed",
   "lastOpenFiles": [
+    "SUSTechLearning/multi variable system control/stability.md",
     "SUSTechLearning/multi variable system control/controllability.md",
     "research/linear CV/thoughts.md",
     "research/linear CV/resource.md",
@@ -207,7 +208,6 @@
     "images/Pasted image 20241123181644.png",
     "images/Pasted image 20241123181234.png",
     "SUSTechLearning/industrial computer networking/运输层.md",
-    "SUSTechLearning/multi variable system control/stability.md",
     "research/linear CV",
     "SUSTechLearning/industrial computer networking/计算机网络概述.md",
     "SUSTechLearning/industrial computer networking/数据链路层.md",
