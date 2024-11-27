@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/linear CV/thoughts.md",
-                "mode": "source",
+                "file": "SUSTechLearning/multi variable system control/controllability.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "thoughts"
+              "title": "controllability"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research/linear CV/thoughts.md"
+                "file": "SUSTechLearning/multi variable system control/controllability.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of thoughts"
+              "title": "Outline of controllability"
             }
           },
           {
@@ -190,9 +190,9 @@
   },
   "active": "87af97662b12a6ed",
   "lastOpenFiles": [
+    "research/linear CV/thoughts.md",
     "research/linear CV/resource.md",
     "research/linear CV/Blelloch parallel scan.md",
-    "research/linear CV/thoughts.md",
     "images/Pasted image 20241123191644.png",
     "research/linear CV/Vim.md",
     "research/linear CV/bel.md",
