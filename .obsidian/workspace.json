@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUSTechLearning/automatic control theory/state feedback.md",
+                "file": "research/linear CV/scanning techniques.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "state feedback"
+              "title": "scanning techniques"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUSTechLearning/automatic control theory/state feedback.md"
+                "file": "research/linear CV/scanning techniques.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of state feedback"
+              "title": "Outline of scanning techniques"
             }
           },
           {
@@ -190,10 +190,11 @@
   },
   "active": "87af97662b12a6ed",
   "lastOpenFiles": [
+    "SUSTechLearning/automatic control theory/state feedback.md",
+    "research/linear CV/scanning techniques.md",
     "images/Pasted image 20241202023310.png",
     "images/Pasted image 20241202023139.png",
     "research/linear CV/resource.md",
-    "SUSTechLearning/automatic control theory/state feedback.md",
     "images/Pasted image 20241129181424.png",
     "images/Pasted image 20241129181417.png",
     "images/Pasted image 20241129175253.png",
@@ -209,7 +210,6 @@
     "images/Pasted image 20241123191319.png",
     "images/Pasted image 20241123185952.png",
     "images/Pasted image 20241123185506.png",
-    "images/Pasted image 20241123185455.png",
     "research/linear CV",
     "SUSTechLearning/industrial computer networking/计算机网络概述.md",
     "SUSTechLearning/industrial computer networking/数据链路层.md",
