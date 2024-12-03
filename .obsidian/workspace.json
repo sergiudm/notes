@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/linear CV/positional encoding.md",
+                "file": "research/linear CV/mamba.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "positional encoding"
+              "title": "mamba"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research/linear CV/positional encoding.md"
+                "file": "research/linear CV/mamba.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of positional encoding"
+              "title": "Outline of mamba"
             }
           },
           {
@@ -190,8 +190,9 @@
   },
   "active": "87af97662b12a6ed",
   "lastOpenFiles": [
-    "research/linear CV/scanning techniques.md",
     "research/linear CV/positional encoding.md",
+    "research/linear CV/mamba.md",
+    "research/linear CV/scanning techniques.md",
     "SUSTechLearning/automatic control theory/state feedback.md",
     "images/Pasted image 20241202023310.png",
     "images/Pasted image 20241202023139.png",
@@ -231,7 +232,6 @@
     "research/HPC/C,C++ techniques/__shared__.md",
     "SUSTechLearning/C++/engineering techniques/cmake.md",
     "SUSTechLearning/digital circuits/逻辑代数/逻辑符号.md",
-    "SUSTechLearning/digital circuits/逻辑代数/逻辑代数基础.md",
     "SUSTechLearning/digital circuits/时序逻辑",
     "draft",
     "research/RL/transfer learning",
