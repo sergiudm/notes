@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/linear CV/scanning techniques.md",
+                "file": "research/linear CV/positional encoding.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "scanning techniques"
+              "title": "positional encoding"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research/linear CV/scanning techniques.md"
+                "file": "research/linear CV/positional encoding.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of scanning techniques"
+              "title": "Outline of positional encoding"
             }
           },
           {
@@ -190,8 +190,9 @@
   },
   "active": "87af97662b12a6ed",
   "lastOpenFiles": [
-    "SUSTechLearning/automatic control theory/state feedback.md",
     "research/linear CV/scanning techniques.md",
+    "research/linear CV/positional encoding.md",
+    "SUSTechLearning/automatic control theory/state feedback.md",
     "images/Pasted image 20241202023310.png",
     "images/Pasted image 20241202023139.png",
     "research/linear CV/resource.md",
@@ -231,7 +232,6 @@
     "SUSTechLearning/C++/engineering techniques/cmake.md",
     "SUSTechLearning/digital circuits/逻辑代数/逻辑符号.md",
     "SUSTechLearning/digital circuits/逻辑代数/逻辑代数基础.md",
-    "SUSTechLearning/digital circuits/时序逻辑/时序逻辑电路的分析方法.md",
     "SUSTechLearning/digital circuits/时序逻辑",
     "draft",
     "research/RL/transfer learning",
