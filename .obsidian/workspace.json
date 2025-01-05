@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/linear CV/mamba.md",
+                "file": "SUSTechLearning/industrial computer networking/运输层.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mamba"
+              "title": "运输层"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research/linear CV/mamba.md"
+                "file": "SUSTechLearning/industrial computer networking/运输层.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of mamba"
+              "title": "Outline of 运输层"
             }
           },
           {
@@ -190,8 +190,8 @@
   },
   "active": "87af97662b12a6ed",
   "lastOpenFiles": [
-    "research/linear CV/positional encoding.md",
     "research/linear CV/mamba.md",
+    "research/linear CV/positional encoding.md",
     "research/linear CV/scanning techniques.md",
     "SUSTechLearning/automatic control theory/state feedback.md",
     "images/Pasted image 20241202023310.png",
