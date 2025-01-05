@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUSTechLearning/industrial computer networking/运输层.md",
+                "file": "SUSTechLearning/industrial computer networking/计算机网络概述.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "运输层"
+              "title": "计算机网络概述"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUSTechLearning/industrial computer networking/运输层.md"
+                "file": "SUSTechLearning/industrial computer networking/计算机网络概述.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 运输层"
+              "title": "Outline of 计算机网络概述"
             }
           },
           {
@@ -190,6 +190,8 @@
   },
   "active": "87af97662b12a6ed",
   "lastOpenFiles": [
+    "SUSTechLearning/industrial computer networking/物理层.md",
+    "SUSTechLearning/industrial computer networking/运输层.md",
     "research/linear CV/mamba.md",
     "research/linear CV/positional encoding.md",
     "research/linear CV/scanning techniques.md",
@@ -201,7 +203,6 @@
     "images/Pasted image 20241129181417.png",
     "images/Pasted image 20241129175253.png",
     "images/Pasted image 20241129173620.png",
-    "SUSTechLearning/industrial computer networking/运输层.md",
     "SUSTechLearning/multi variable system control/stability.md",
     "SUSTechLearning/multi variable system control/controllability.md",
     "research/linear CV/thoughts.md",
@@ -216,7 +217,6 @@
     "SUSTechLearning/industrial computer networking/计算机网络概述.md",
     "SUSTechLearning/industrial computer networking/数据链路层.md",
     "SUSTechLearning/industrial computer networking/网络层.md",
-    "SUSTechLearning/industrial computer networking/物理层.md",
     "[物理层.md",
     "research",
     "SUSTechLearning/multi variable system control/state-space fundamentals.md",
