@@ -6,4 +6,3 @@
 ## Mmcv
 ## Transformers
 ## Einops
-## Deepseed
