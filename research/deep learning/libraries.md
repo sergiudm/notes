@@ -1,4 +1,7 @@
 ## Pytorch
-## Tqdm
 ## Torchvision
 ## Timm
+## Triton
+## Mmengine
+## Mmcv
+## Transformers
