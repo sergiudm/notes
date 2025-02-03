@@ -25,7 +25,8 @@ $$
 \boldsymbol{S}_t = \boldsymbol{G}_t \odot \boldsymbol{S}_{t-1} + \boldsymbol{k}_t^\top \boldsymbol{v}_t
 
 $$
-Where $$
+Where 
+$$
 \boldsymbol{G}_t \in (0, 1)^{d_k \times d_v}
 $$
 #### Parameterization of $G_t$
@@ -67,4 +68,14 @@ $$
 $$
 
 ## GLA block
+$$
+\begin{aligned}
+\mathbf{Y}^{(l)} &= \text{GLA}(\text{LN}(\mathbf{X}^{(l)})) + \mathbf{X}^{(l)} \\
+\mathbf{X}^{(l+1)} &= \text{SwiGLU}(\text{LN}(\mathbf{Y}^{(l)})) + \mathbf{X}^{(l)}
+\end{aligned}
+$$
+Where 
+$$
+\text{SwiGLU}(\mathbf{Z}) = (\text{Swish}(\mathbf{Z} \mathbf{W}_1) \odot \mathbf{Z} \mathbf{W}_2) \mathbf{W}_3
+$$
 
