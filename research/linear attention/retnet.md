@@ -21,3 +21,10 @@ S_n &= \gamma S_{n-1} + K_n^\top V_n \\
 \end{aligned}
 $$
 ### The Chunkwise Recurrent Representation of Retention
+$$
+\begin{aligned}
+Q_{[i]} &= Q_{Bi:B(i+1)}, \quad K_{[i]} = K_{Bi:B(i+1)}, \quad V_{[i]} = V_{Bi:B(i+1)} \\
+R_i &= K_{[i]}^\top (V_{[i]} \odot \zeta) + \gamma^B R_{i-1}, \quad \zeta_{ij} = \gamma^{B-i-1} \\
+\text{Retention}(X_{[i]}) &= \underbrace{(Q_{[i]} K_{[i]}^\top \odot D) V_{[i]}}_{\text{Inner-Chunk}} + \underbrace{(Q_{[i]} R_{i-1}) \odot \xi}_{\text{Cross-Chunk}}, \quad \xi_{ij} = \gamma^{i+1}
+\end{aligned}
+$$
