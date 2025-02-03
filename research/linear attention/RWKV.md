@@ -43,5 +43,15 @@ $$
 
 ## RWKV v 5
 Code [RWKV-LM/RWKV-v5/src/model.py at main · BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM/blob/main/RWKV-v5/src/model.py)
-
+### Time mixing
+$$
+\begin{aligned}
+\square_t &= \text{lerp}_\square(x_t, x_{t-1}) W_\square, \quad \square \in \{r, k, v, g\} \\
+w &= \exp(-\exp(\omega)) \\
+wkv_t &= \text{diag}(u) \cdot k_t^\top \cdot v_t + \sum_{i=1}^{t-1} \text{diag}(w)^{t-1-i} \cdot k_i^\top \cdot v_i \in \mathbb{R}^{(D/h) \times (D/h)} \\
+o_t &= \text{concat}(\text{SiLU}(g_t) \odot \text{LayerNorm}(r_t \cdot wkv_t)) W_o \in \mathbb{R}^D
+\end{aligned}
+$$
+Where $\text{lerp}_\square(a, b) = a + (b - a) \odot \mu_\square$ and $\mu_{\square} \in \mathbb{R}^D$ is a learnable vector.
+### Channel mixing
 
