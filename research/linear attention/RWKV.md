@@ -72,4 +72,13 @@ $$
 \end{aligned}
 $$
 #### Time mixing
+$$
+\begin{aligned}
+\square_t &= \text{ddlerp}_\square(x_t, x_{t-1}) W_\square, \quad \square \in \{r, k, v, g\} \\
+d_t &= \text{lora}_d(\text{ddlerp}_d(x_t, x_{t-1})) \\
+w_t &= \exp(-\exp(d_t)) \\
+wkv_t &= \text{diag}(u) \cdot k_t^\top \cdot v_t + \sum_{i=1}^{t-1} \text{diag} \left( \bigodot_{j=i+1}^{t-1} w_j \right) \cdot k_i^\top \cdot v_i \in \mathbb{R}^{(D/h) \times (D/h)} \\
+o_t &= \text{concat}(\text{SiLU}(g_t) \odot \text{LayerNorm}(r_t \cdot wkv_t)) W_o \in \mathbb{R}^D
+\end{aligned}
+$$
 
