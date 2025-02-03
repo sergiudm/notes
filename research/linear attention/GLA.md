@@ -32,3 +32,4 @@ $$
 $$
 \boldsymbol{S}_t = (\boldsymbol{\alpha}_t^\top \boldsymbol{1}) \odot \boldsymbol{S}_{t-1} + \boldsymbol{k}_t^\top \boldsymbol{v}_t = \text{Diag}(\boldsymbol{\alpha}_t) \boldsymbol{S}_{t-1} + \boldsymbol{k}_t^\top \boldsymbol{v}_t
 $$
+### Parallelform
