@@ -18,3 +18,13 @@ $$
 $$
 \boldsymbol{S}_t = \boldsymbol{S}_{t-1} + \boldsymbol{k}_t^\top \boldsymbol{v}_t, \quad \boldsymbol{o}_t = \boldsymbol{q}_t \boldsymbol{S}_t
 $$
+
+## Gated Linear Attention
+### Recurrent form
+$$
+\boldsymbol{S}_t = \boldsymbol{G}_t \odot \boldsymbol{S}_{t-1} + \boldsymbol{k}_t^\top \boldsymbol{v}_t
+
+$$
+Where $$
+\boldsymbol{G}_t \in (0, 1)^{d_k \times d_v}
+$$
