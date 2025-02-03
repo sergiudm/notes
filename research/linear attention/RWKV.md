@@ -65,4 +65,11 @@ $$
 ## RWKV v 6
 ### Time mixing
 #### Token shift
+$$
+\begin{aligned}
+\text{lora}_\square(x) &= \lambda_\square + \text{tanh}(x A_\square) B_\square \\
+\text{ddlerp}_\square(a, b) &= a + (b - a) \odot \text{lora}_\square(a + (b - a) \odot \mu_x)
+\end{aligned}
+$$
+#### Time mixing
 
