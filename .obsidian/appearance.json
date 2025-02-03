@@ -1,8 +1,9 @@
 {
   "accentColor": "",
   "theme": "obsidian",
-  "cssTheme": "Minimal",
+  "cssTheme": "Dracula for Obsidian",
   "baseFontSize": 16,
   "baseFontSizeAction": true,
-  "textFontFamily": ""
+  "textFontFamily": "",
+  "nativeMenus": false
 }

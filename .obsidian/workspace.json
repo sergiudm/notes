@@ -15,8 +15,17 @@
               "state": {
                 "file": "research/linear attention/RWKV.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "RWKV"
@@ -41,7 +50,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -128,7 +138,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -191,11 +203,11 @@
   },
   "active": "87af97662b12a6ed",
   "lastOpenFiles": [
+    "research/linear attention/RWKV.md",
     "images/Pasted image 20250203120937.png",
     "images/Pasted image 20250203115922.png",
     "images/Pasted image 20250203115908.png",
     "research/linear attention/mamba.md",
-    "research/linear attention/RWKV.md",
     "research/linear attention/titans.md",
     "research/linear attention/TTT.md",
     "research/linear attention/gated deltanet.md",
@@ -227,7 +239,6 @@
     "research/linear CV/Blelloch parallel scan.md",
     "images/Pasted image 20241123191644.png",
     "research/linear CV/Vim.md",
-    "images/Pasted image 20241123191319.png",
     "research/linear CV",
     "research",
     "新建文件夹",

@@ -7,9 +7,9 @@
   "cm-editor-syntax-highlight-obsidian",
   "templater-obsidian",
   "obsidian-style-settings",
-  "obsidian-minimal-settings",
   "easy-typing-obsidian",
   "obsidian-checklist-plugin",
   "ollama",
-  "obsidian-enhancing-mindmap"
+  "obsidian-enhancing-mindmap",
+  "obsidian-minimal-settings"
 ]

@@ -1,3 +1,4 @@
+Link [RWKV-LM/RWKV-v1/src/model.py at main · BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM/blob/main/RWKV-v1/src/model.py)
 ## Architecture
 ![[Pasted image 20250203120937.png]]
 ![[Pasted image 20250203115922.png]]
