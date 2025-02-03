@@ -27,4 +27,11 @@ wkv_t = \frac{
 $$
 ## Output Gating
 ### post the WKV operator
+$$
+o_t = W_o \cdot (\sigma(r_t) \odot wkv_t)
+$$
+### In the channel-mixing block
+$$
+o'_t = \sigma(r'_t) \odot (W'_v \cdot \max(k'_t, 0)^2)
+$$
 
