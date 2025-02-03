@@ -52,6 +52,17 @@ wkv_t &= \text{diag}(u) \cdot k_t^\top \cdot v_t + \sum_{i=1}^{t-1} \text{diag}(
 o_t &= \text{concat}(\text{SiLU}(g_t) \odot \text{LayerNorm}(r_t \cdot wkv_t)) W_o \in \mathbb{R}^D
 \end{aligned}
 $$
-Where $\text{lerp}_\square(a, b) = a + (b - a) \odot \mu_\square$ and $\mu_{\square} \in \mathbb{R}^D$ is a learnable vector.
+Where **l**inear int**erp**olation, $\text{lerp}_\square(a, b) = a + (b - a) \odot \mu_\square$ and $\mu_{\square} \in \mathbb{R}^D$ is a learnable vector.
 ### Channel mixing
+$$
+\begin{aligned}
+r'_t &= \text{lerp}_{r'}(x'_t, x'_{t-1}) W_{r'} \in \mathbb{R}^D \\
+k'_t &= \text{lerp}_{k'}(x'_t, x'_{t-1}) W_{k'} \in \mathbb{R}^{3.5D} \\
+v'_t &= \text{ReLU}(k'_t)^2 W_{v'} \in \mathbb{R}^D \\
+o'_t &= \sigma(r'_t) \odot v'_t \in \mathbb{R}^D
+\end{aligned}
+$$
+## RWKV v 6
+### Time mixing
+#### Token shift
 
