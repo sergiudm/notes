@@ -1,7 +1,10 @@
 Link [RWKV-LM/RWKV-v1/src/model.py at main · BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM/blob/main/RWKV-v1/src/model.py)
 ## Architecture
 ![[Pasted image 20250203120937.png]]
-![[Pasted image 20250203115922.png]]
+>• R: The Receptance vector acts as the receiver of past information. 
+>• W: The Weight signifies the positional weight decay vector, a trainable parameter within the model. 
+>• K: The Key vector performs a role analogous to K in traditional attention mechanisms. 
+>• V: The Value vector functions similarly to V in conventional attention processes.
 ## Token shift
 ### Time mixing
 $$
