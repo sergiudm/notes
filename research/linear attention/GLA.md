@@ -33,3 +33,6 @@ $$
 \boldsymbol{S}_t = (\boldsymbol{\alpha}_t^\top \boldsymbol{1}) \odot \boldsymbol{S}_{t-1} + \boldsymbol{k}_t^\top \boldsymbol{v}_t = \text{Diag}(\boldsymbol{\alpha}_t) \boldsymbol{S}_{t-1} + \boldsymbol{k}_t^\top \boldsymbol{v}_t
 $$
 ### Parallelform
+$$
+\boldsymbol{S}_t = \sum_{i=1}^t \left( \left( \prod_{j=i+1}^t \boldsymbol{\alpha}_j^\top \boldsymbol{1} \right) \odot \boldsymbol{k}_i^\top \boldsymbol{v}_i \right)
+$$
