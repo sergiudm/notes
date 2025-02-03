@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/linear attention/GLA.md",
-                "mode": "preview",
+                "file": "research/linear attention/TTT.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "GLA"
+              "title": "TTT"
             }
           }
         ]
@@ -203,6 +203,7 @@
   },
   "active": "87af97662b12a6ed",
   "lastOpenFiles": [
+    "research/linear attention/GLA.md",
     "research/linear attention/RWKV.md",
     "images/Pasted image 20250203120937.png",
     "images/Pasted image 20250203115922.png",
@@ -213,7 +214,6 @@
     "research/linear attention/gated deltanet.md",
     "research/linear attention/deltanet.md",
     "research/linear attention/Gated GLA.md",
-    "research/linear attention/GLA.md",
     "research/deep learning/libraries.md",
     "research/linear attention",
     "research/deep learning/CNN.md",
