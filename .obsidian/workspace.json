@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/deep learning/libraries.md",
+                "file": "research/linear attention/RWKV.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "libraries"
+              "title": "RWKV"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research/deep learning/libraries.md"
+                "file": "research/linear attention/RWKV.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of libraries"
+              "title": "Outline of RWKV"
             }
           },
           {
@@ -190,8 +190,19 @@
   },
   "active": "87af97662b12a6ed",
   "lastOpenFiles": [
-    "research/deep learning/CNN.md",
+    "images/Pasted image 20250203115922.png",
+    "images/Pasted image 20250203115908.png",
+    "research/linear attention/mamba.md",
+    "research/linear attention/RWKV.md",
+    "research/linear attention/titans.md",
+    "research/linear attention/TTT.md",
+    "research/linear attention/gated deltanet.md",
+    "research/linear attention/deltanet.md",
+    "research/linear attention/Gated GLA.md",
+    "research/linear attention/GLA.md",
     "research/deep learning/libraries.md",
+    "research/linear attention",
+    "research/deep learning/CNN.md",
     "SUSTechLearning/industrial computer networking/网络层.md",
     "SUSTechLearning/industrial computer networking/计算机网络概述.md",
     "SUSTechLearning/industrial computer networking/数据链路层.md",
@@ -214,27 +225,16 @@
     "research/linear CV/Blelloch parallel scan.md",
     "images/Pasted image 20241123191644.png",
     "research/linear CV/Vim.md",
-    "research/linear CV/bel.md",
     "images/Pasted image 20241123191319.png",
     "images/Pasted image 20241123185952.png",
-    "images/Pasted image 20241123185506.png",
     "research/linear CV",
-    "[物理层.md",
     "research",
-    "SUSTechLearning/multi variable system control/state-space fundamentals.md",
-    "SUSTechLearning/multi variable system control/state space model.md",
-    "SUSTechLearning/multi variable system control/Observability.md",
     "新建文件夹",
     "新建 Text Document.txt",
-    "README.MD",
     "SUSTechLearning/industrial computer networking",
-    "research/RL/Mathematical Foundations/Tabular methods.md",
     "SUSTechLearning/multi variable system control",
-    "research/HPC/C,C++ techniques/__global__.md",
-    "research/HPC/C,C++ techniques/__shared__.md",
     "SUSTechLearning/digital circuits/时序逻辑",
     "draft",
-    "research/RL/transfer learning",
-    "images"
+    "research/RL/transfer learning"
   ]
 }
