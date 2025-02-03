@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/linear attention/RWKV.md",
+                "file": "research/linear attention/retnet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "RWKV"
+              "title": "retnet"
             }
           }
         ]
@@ -203,17 +203,19 @@
   },
   "active": "87af97662b12a6ed",
   "lastOpenFiles": [
+    "research/linear attention/GSA.md",
+    "research/linear attention/retnet.md",
+    "research/linear attention/deltanet.md",
+    "research/linear attention/RWKV.md",
     "research/linear attention/TTT.md",
     "images/Pasted image 20250203145923.png",
     "research/linear attention/GLA.md",
-    "research/linear attention/RWKV.md",
     "images/Pasted image 20250203120937.png",
     "images/Pasted image 20250203115922.png",
     "images/Pasted image 20250203115908.png",
     "research/linear attention/mamba.md",
     "research/linear attention/titans.md",
     "research/linear attention/gated deltanet.md",
-    "research/linear attention/deltanet.md",
     "research/linear attention/Gated GLA.md",
     "research/deep learning/libraries.md",
     "research/linear attention",
@@ -238,7 +240,6 @@
     "SUSTechLearning/multi variable system control/controllability.md",
     "research/linear CV/thoughts.md",
     "research/linear CV/Blelloch parallel scan.md",
-    "research/linear CV/Vim.md",
     "research/linear CV",
     "research",
     "新建文件夹",
