@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/linear attention/gated deltanet.md",
+                "file": "research/linear attention/titans.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "gated deltanet"
+              "title": "titans"
             }
           }
         ]
@@ -203,6 +203,8 @@
   },
   "active": "87af97662b12a6ed",
   "lastOpenFiles": [
+    "research/linear attention/gated deltanet.md",
+    "images/Pasted image 20250205003408.png",
     "research/linear attention/GSA.md",
     "images/Pasted image 20250205002005.png",
     "images/Pasted image 20250205001955.png",
@@ -221,7 +223,6 @@
     "images/Pasted image 20250203115908.png",
     "research/linear attention/mamba.md",
     "research/linear attention/titans.md",
-    "research/linear attention/gated deltanet.md",
     "research/linear attention/Gated GLA.md",
     "research/deep learning/libraries.md",
     "research/linear attention",
@@ -236,7 +237,6 @@
     "research/linear CV/scanning techniques.md",
     "SUSTechLearning/automatic control theory/state feedback.md",
     "images/Pasted image 20241202023310.png",
-    "images/Pasted image 20241202023139.png",
     "research/linear CV/resource.md",
     "SUSTechLearning/multi variable system control/stability.md",
     "research/linear CV",
