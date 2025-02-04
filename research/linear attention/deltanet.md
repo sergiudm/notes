@@ -12,9 +12,9 @@ This process can also be regarded as optimizing an online regression loss using 
 $$
 \mathcal{L}_t(\mathbf{S}) = \frac{1}{2} \| \mathbf{S}\boldsymbol{k}_t - \boldsymbol{v}_t \|^2, \quad \mathbf{S}_t = \mathbf{S}_{t-1} - \beta_t \nabla_{\mathbf{S}_{t-1}} \mathcal{L}_t(\mathbf{S}_{t-1}) = \mathbf{S}_{t-1} - \beta_t (\mathbf{S}_{t-1} \boldsymbol{k}_t - \boldsymbol{v}_t) \boldsymbol{k}_t^\top
 $$
-
-
 ## Parallelizing DeltaNet Across the Sequence Dimension
+$$
 
+$$
 
 
