@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/linear attention/ABC.md",
+                "file": "research/linear attention/GSA.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ABC"
+              "title": "GSA"
             }
           }
         ]
@@ -203,8 +203,8 @@
   },
   "active": "87af97662b12a6ed",
   "lastOpenFiles": [
-    "research/linear attention/GSA.md",
     "research/linear attention/ABC.md",
+    "research/linear attention/GSA.md",
     "research/linear attention/deltanet.md",
     "images/Pasted image 20250204232232.png",
     "research/linear attention/retnet.md",

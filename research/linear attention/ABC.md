@@ -1,3 +1,4 @@
+Code [flash-linear-attention/fla/models/abc/modeling_abc.py at main · fla-org/flash-linear-attention](https://github.com/fla-org/flash-linear-attention/blob/main/fla/models/abc/modeling_abc.py)
 $$
 \begin{aligned}
 \tilde{\mathbf{K}}_t &= \tilde{\mathbf{K}}_{t-1} + \boldsymbol{\phi}_t \otimes \boldsymbol{k}_t \in \mathbb{R}^{m \times d}, \quad \tilde{\mathbf{V}}_t = \tilde{\mathbf{V}}_{t-1} + \boldsymbol{\phi}_t \otimes \boldsymbol{v}_t \in \mathbb{R}^{m \times d}, \quad \boldsymbol{o}_t = \tilde{\mathbf{V}}_t^T f(\tilde{\mathbf{K}}_t^T \boldsymbol{q}_t) \in \mathbb{R}^d \\
