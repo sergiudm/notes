@@ -1,2 +1,14 @@
 Code [flash-linear-attention/fla/layers/delta_net.py at main · fla-org/flash-linear-attention](https://github.com/fla-org/flash-linear-attention/blob/main/fla/layers/delta_net.py)
 ## Delta rule
+$$
+\boldsymbol{v}_{t}^{\mathrm{new}} = \beta_{t} \boldsymbol{v}_{t} + (1 - \beta_{t}) \boldsymbol{v}_{t}^{\mathrm{old}}, \qquad \boldsymbol{S}_{t} = \underbrace{\boldsymbol{S}_{t-1} - \boldsymbol{v}_{t}^{\mathrm{old}} \boldsymbol{k}_{t}^{\top}}_{\text{remove}} + \underbrace{\boldsymbol{v}_{t}^{\mathrm{new}} \boldsymbol{k}_{t}^{\top}}_{\text{write}}, \qquad
+\boldsymbol{o}_t = \boldsymbol{S}_t \boldsymbol{q}_t
+$$
+Where $\boldsymbol{v}_{t}^{\mathrm{old}} = \boldsymbol{S}_{t-1} \boldsymbol{k}_{t}, \beta_t = \sigma(\mathbf{W}_{\beta} \boldsymbol{x}_t) \in (0, 1)$
+
+>when $\beta_t = 1$, the old value is completely removed and $\boldsymbol{v}^{new}_t = \boldsymbol{v}_t$; when $\beta_t = 0$, the memory remains unmodified and we have $\boldsymbol{S}_t = \boldsymbol{S}_{t−1}$
+
+## Parallelizing DeltaNet Across the Sequence Dimension
+
+
+
