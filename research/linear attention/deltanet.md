@@ -8,6 +8,12 @@ Where $\boldsymbol{v}_{t}^{\mathrm{old}} = \boldsymbol{S}_{t-1} \boldsymbol{k}_{
 
 >when $\beta_t = 1$, the old value is completely removed and $\boldsymbol{v}^{new}_t = \boldsymbol{v}_t$; when $\beta_t = 0$, the memory remains unmodified and we have $\boldsymbol{S}_t = \boldsymbol{S}_{t−1}$
 
+This process can also be regarded as optimizing an online regression loss using a single step of SGD
+$$
+\mathcal{L}_t(\mathbf{S}) = \frac{1}{2} \| \mathbf{S}\boldsymbol{k}_t - \boldsymbol{v}_t \|^2, \quad \mathbf{S}_t = \mathbf{S}_{t-1} - \beta_t \nabla_{\mathbf{S}_{t-1}} \mathcal{L}_t(\mathbf{S}_{t-1}) = \mathbf{S}_{t-1} - \beta_t (\mathbf{S}_{t-1} \boldsymbol{k}_t - \boldsymbol{v}_t) \boldsymbol{k}_t^\top
+$$
+
+
 ## Parallelizing DeltaNet Across the Sequence Dimension
 
 
