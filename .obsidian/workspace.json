@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/linear attention/deltanet.md",
+                "file": "research/linear attention/GSA.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "deltanet"
+              "title": "GSA"
             }
           }
         ]
@@ -203,9 +203,9 @@
   },
   "active": "87af97662b12a6ed",
   "lastOpenFiles": [
+    "research/linear attention/deltanet.md",
     "images/Pasted image 20250204232232.png",
     "research/linear attention/retnet.md",
-    "research/linear attention/deltanet.md",
     "research/linear attention/AFT.md",
     "images/Pasted image 20250204150004.png",
     "research/linear attention/GSA.md",
@@ -237,7 +237,6 @@
     "research/linear CV/resource.md",
     "images/Pasted image 20241129181424.png",
     "images/Pasted image 20241129181417.png",
-    "images/Pasted image 20241129175253.png",
     "SUSTechLearning/multi variable system control/stability.md",
     "SUSTechLearning/multi variable system control/controllability.md",
     "research/linear CV",
