@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/linear attention/GSA.md",
+                "file": "research/linear attention/gated deltanet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "GSA"
+              "title": "gated deltanet"
             }
           }
         ]
@@ -203,10 +203,10 @@
   },
   "active": "87af97662b12a6ed",
   "lastOpenFiles": [
+    "research/linear attention/GSA.md",
     "images/Pasted image 20250205002005.png",
     "images/Pasted image 20250205001955.png",
     "research/linear attention/ABC.md",
-    "research/linear attention/GSA.md",
     "research/linear attention/deltanet.md",
     "images/Pasted image 20250204232232.png",
     "research/linear attention/retnet.md",
@@ -238,7 +238,6 @@
     "images/Pasted image 20241202023310.png",
     "images/Pasted image 20241202023139.png",
     "research/linear CV/resource.md",
-    "images/Pasted image 20241129181424.png",
     "SUSTechLearning/multi variable system control/stability.md",
     "research/linear CV",
     "research",
