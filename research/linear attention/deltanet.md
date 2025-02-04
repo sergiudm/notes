@@ -1,4 +1,5 @@
 Code [flash-linear-attention/fla/layers/delta_net.py at main · fla-org/flash-linear-attention](https://github.com/fla-org/flash-linear-attention/blob/main/fla/layers/delta_net.py)
+![[Pasted image 20250204232232.png]]
 ## Delta rule
 $$
 \boldsymbol{v}_{t}^{\mathrm{new}} = \beta_{t} \boldsymbol{v}_{t} + (1 - \beta_{t}) \boldsymbol{v}_{t}^{\mathrm{old}}, \qquad \boldsymbol{S}_{t} = \underbrace{\boldsymbol{S}_{t-1} - \boldsymbol{v}_{t}^{\mathrm{old}} \boldsymbol{k}_{t}^{\top}}_{\text{remove}} + \underbrace{\boldsymbol{v}_{t}^{\mathrm{new}} \boldsymbol{k}_{t}^{\top}}_{\text{write}}, \qquad
@@ -14,7 +15,8 @@ $$
 $$
 ## Parallelizing DeltaNet Across the Sequence Dimension
 $$
-
+\mathbf{S}_t = \mathbf{S}_{t-1} (\mathbf{I} - \beta_t \boldsymbol{k}_t \boldsymbol{k}_t^\top) + \beta_t \boldsymbol{v}_t \boldsymbol{k}_t^\top = \sum_{i=1}^{t-1} \boldsymbol{u}_i \boldsymbol{k}_i^\top + \beta_t \underbrace{\left( \boldsymbol{v}_t - \sum_{i=1}^{t-1} \boldsymbol{u}_i (\boldsymbol{k}_i^\top \boldsymbol{k}_t) \right)}_{\text{defined as } \boldsymbol{u}_t} \boldsymbol{k}_t^\top = \sum_{i=1}^{t} \boldsymbol{u}_i \boldsymbol{k}_i^\top
 $$
+
 
 
