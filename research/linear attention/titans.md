@@ -71,6 +71,7 @@ o &=y \otimes \mathcal{M}(\tilde{x}),
 \end{aligned}
 $$
 Where SW-Attn∗ is sliding window attention with prefix.
+Note that, contrary to the previous design, we are not segmenting the input data.
 ### Memory as a Layer
 ![[Pasted image 20250210005910.png]]
 $$
