@@ -30,4 +30,9 @@ $$
 ### How to Parallelize the Long-term Memory Training
 TBD
 ## Persistent Memory
-
+$$
+x_{\text {new }}=\left[\begin{array}{llll}
+p_{1} & p_{2} & \ldots & p_{N_{p}}
+\end{array}\right] \| x
+$$
+Where $\|$ is concatenation
