@@ -16,5 +16,11 @@ S_{t} &= \eta_{t} \underbrace{S_{t-1}}_{\text{Past Surprise}} - \theta_{t} \unde
 \end{aligned}
 $$
 ### Forgetting Mechanism
+$$
+\begin{aligned}
+\mathcal{M}_{t} &= \left(1-\alpha_{t}\right) \mathcal{M}_{t-1}+S_{t}, \\
+S_{t} &= \eta_{t} S_{t-1}-\theta_{t} \nabla \ell\left(\mathcal{M}_{t-1} ; x_{t}\right)
+\end{aligned}
+$$
 
 
