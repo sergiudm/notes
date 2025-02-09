@@ -40,6 +40,7 @@ Where $\|$ is concatenation, and $\left[\begin{array}{llll}p_{1} & p_{2} & \ldot
 
 ## How to Incorporate Memory: three different variants of Titans
 ### Memory as a Context
+![[Pasted image 20250210010001.png]]
 given a long sequence $x \in \mathbb{R}^{N \times din}$, we first chunk the sequence into fixed-size segments $S^{(i)}$ for 𝑖 = 1,...,𝑁/𝐶. Given the incoming segment $S^{(t)}$
 $$
 \begin{aligned}
@@ -58,7 +59,8 @@ o_{t} &= y_{t} \otimes \mathcal{M}_{t}^{*}\left(y_{t}\right)
 \end{aligned}
 $$
 Note that, in the above, we are updating the weight of $\mathcal{M}_{t-1}$ through forward pass.
-### Gated Memory
+### Memory as a Gate
+![[Pasted image 20250210005941.png]]
 $$
 \begin{aligned}
 \tilde{x} &=\left[\begin{array}{llll}
@@ -70,6 +72,7 @@ o &=y \otimes \mathcal{M}(\tilde{x}),
 $$
 Where SW-Attn∗ is sliding window attention with prefix.
 ### Memory as a Layer
+![[Pasted image 20250210005910.png]]
 $$
 \begin{aligned}
 \tilde{x} &=\left[\begin{array}{llll}
