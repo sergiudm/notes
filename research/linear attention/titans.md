@@ -22,5 +22,9 @@ $$
 S_{t} &= \eta_{t} S_{t-1}-\theta_{t} \nabla \ell\left(\mathcal{M}_{t-1} ; x_{t}\right)
 \end{aligned}
 $$
-
+### Retrieving a Memory
+Given an input $x_t$, we use a linear layer $W_Q$ to project the input, i.e. $\mathbf{q}_t = x_t W_Q$ and retrieve the corresponding (or useful) information from the memory $y_t$ text by:
+$$
+y_{t}=\mathcal{M}^{*}\left(\mathbf{q}_{t}\right)
+$$
 
