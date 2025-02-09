@@ -27,4 +27,7 @@ Given an input $x_t$, we use a linear layer $W_Q$ to project the input, i.e. $\m
 $$
 y_{t}=\mathcal{M}^{*}\left(\mathbf{q}_{t}\right)
 $$
+### How to Parallelize the Long-term Memory Training
+TBD
+## Persistent Memory
 
