@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/linear attention/titans.md",
+                "file": "research/linear attention/mamba.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "titans"
+              "title": "mamba"
             }
           }
         ]
@@ -203,6 +203,7 @@
   },
   "active": "87af97662b12a6ed",
   "lastOpenFiles": [
+    "images/Pasted image 20250210102001.png",
     "research/linear attention/titans.md",
     "images/Pasted image 20250210010001.png",
     "images/Pasted image 20250210005941.png",
