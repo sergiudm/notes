@@ -19,4 +19,5 @@ $$
 Where $s_{\boldsymbol{B}}(x)=\operatorname{Linear}_{N}(x), s_{\boldsymbol{C}}(x)=\operatorname{Linear}_{N}(x), s_{\boldsymbol{\Delta}}(x)=\operatorname{Broadcast}_{D}\left(\operatorname{Linear}_{1}(x)\right) \text {, and } \tau_{\boldsymbol{\Delta}}=\text { softplus }$
 
 ### Selective Scan: Hardware-Aware State Expansion
-
+Instead of preparing the scan input (𝑨,𝑩) of size (B,L,D,N) in GPU HBM (high-bandwidth memory), we load the SSM parameters (Δ,𝑨,𝑩,𝑪) directly from slow HBM to fast SRAM, perform the discretization and recurrence in SRAM, and then write the final outputs of size (B,L,D) back to HBM.
+To avoid the sequential recurrence, we observe that despite not being linear it can still be parallelized with a work-efficient parallel scan algorithm
