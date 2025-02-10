@@ -23,4 +23,5 @@ Instead of preparing the scan input (𝑨,𝑩) of size (B,L,D,N) in GPU HBM (hi
 To avoid the sequential recurrence, we observe that despite not being linear it can still be parallelized with a work-efficient parallel scan algorithm.
 
 ## **Mamba-2**
+### Structured State Space Duality
 
