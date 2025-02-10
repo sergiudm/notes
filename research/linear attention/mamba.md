@@ -1,5 +1,5 @@
 Code [state-spaces/mamba: Mamba SSM architecture](https://github.com/state-spaces/mamba)
-## Mamba
+## **Mamba**
 ![[Pasted image 20250210102001.png]]
 ### Selective State Space Models
 $$
@@ -20,4 +20,7 @@ Where $s_{\boldsymbol{B}}(x)=\operatorname{Linear}_{N}(x), s_{\boldsymbol{C}}(x)
 
 ### Selective Scan: Hardware-Aware State Expansion
 Instead of preparing the scan input (𝑨,𝑩) of size (B,L,D,N) in GPU HBM (high-bandwidth memory), we load the SSM parameters (Δ,𝑨,𝑩,𝑪) directly from slow HBM to fast SRAM, perform the discretization and recurrence in SRAM, and then write the final outputs of size (B,L,D) back to HBM.
-To avoid the sequential recurrence, we observe that despite not being linear it can still be parallelized with a work-efficient parallel scan algorithm
+To avoid the sequential recurrence, we observe that despite not being linear it can still be parallelized with a work-efficient parallel scan algorithm.
+
+## **Mamba-2**
+
