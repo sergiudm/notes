@@ -7,7 +7,7 @@ $$
 &\textbf{Algorithm:} \text{ SSM + Selection (S6)} \\
 &\textbf{Input: } x: (\text{B, L, D}) \\
 &\textbf{Output: } y: (\text{B, L, D}) \\
-&1: \quad \boldsymbol{A}: (\text{D, N}) \leftarrow \text{Parameter}  \qquad \triangleright \text{Represents structured } N \times N \text{ matrix} \\
+&1: \quad \boldsymbol{A}: (\text{D, N}) \leftarrow \text{Parameter}  \qquad \triangleright \text{Represents structured(diagonal) } N \times N \text{ matrix} \\
 &2: \quad \boldsymbol{B}: (\text{B, L, N}) \leftarrow s_{\boldsymbol{B}}(x) \\
 &3: \quad \boldsymbol{C}: (\text{B, L, N}) \leftarrow s_{\boldsymbol{C}}(x) \\
 &4: \quad \boldsymbol{\Delta}: (\text{B, L, D}) \leftarrow \tau_{\boldsymbol{\Delta}}(\text{Parameter} + s_{\boldsymbol{\Delta}}(x)) \\
@@ -17,3 +17,4 @@ $$
 \end{aligned}
 $$
 Where $s_{\boldsymbol{B}}(x)=\operatorname{Linear}_{N}(x), s_{\boldsymbol{C}}(x)=\operatorname{Linear}_{N}(x), s_{\boldsymbol{\Delta}}(x)=\operatorname{Broadcast}_{D}\left(\operatorname{Linear}_{1}(x)\right) \text {, and } \tau_{\boldsymbol{\Delta}}=\text { softplus }$
+
