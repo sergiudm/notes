@@ -16,3 +16,4 @@ $$
 &7: \quad \textbf{return } y
 \end{aligned}
 $$
+Where $s_{\boldsymbol{B}}(x)=\operatorname{Linear}_{N}(x), s_{\boldsymbol{C}}(x)=\operatorname{Linear}_{N}(x), s_{\boldsymbol{\Delta}}(x)=\operatorname{Broadcast}_{D}\left(\operatorname{Linear}_{1}(x)\right) \text {, and } \tau_{\boldsymbol{\Delta}}=\text { softplus }$
