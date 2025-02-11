@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/linear attention/TTT.md",
+                "file": "research/deep learning/unsupervised learning/GAN.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TTT"
+              "title": "GAN"
             }
           }
         ]
@@ -203,30 +203,35 @@
   },
   "active": "87af97662b12a6ed",
   "lastOpenFiles": [
-    "research/linear attention/titans.md",
-    "research/linear attention/RWKV.md",
-    "research/linear attention/GLA.md",
-    "research/linear attention/gated deltanet.md",
-    "research/linear attention/deltanet.md",
-    "research/linear attention/mamba.md",
+    "research/deep learning/linear attention/GSA.md",
+    "research/deep learning/unsupervised learning/GAN.md",
+    "research/deep learning/linear attention/gated deltanet.md",
+    "research/deep learning/unsupervised learning/diffusion.md",
+    "research/deep learning/unsupervised learning/VAE.md",
+    "research/deep learning/unsupervised learning/normalizing flows.md",
+    "research/deep learning/linear attention/TTT.md",
+    "research/deep learning/unsupervised learning",
+    "research/deep learning/linear attention/titans.md",
+    "research/deep learning/linear attention/RWKV.md",
+    "research/deep learning/linear attention/GLA.md",
+    "research/deep learning/linear attention/deltanet.md",
+    "research/deep learning/linear attention/mamba.md",
     "images/Pasted image 20250210102001.png",
     "images/Pasted image 20250210010001.png",
     "images/Pasted image 20250210005941.png",
     "images/Pasted image 20250210005910.png",
     "images/Pasted image 20250205003408.png",
-    "research/linear attention/GSA.md",
     "images/Pasted image 20250205002005.png",
     "images/Pasted image 20250205001955.png",
-    "research/linear attention/ABC.md",
+    "research/deep learning/linear attention/ABC.md",
     "images/Pasted image 20250204232232.png",
-    "research/linear attention/retnet.md",
-    "research/linear attention/AFT.md",
+    "research/deep learning/linear attention/retnet.md",
+    "research/deep learning/linear attention/AFT.md",
     "images/Pasted image 20250204150004.png",
-    "research/linear attention/TTT.md",
     "images/Pasted image 20250203145923.png",
-    "research/linear attention/Gated GLA.md",
+    "research/deep learning/linear attention/Gated GLA.md",
     "research/deep learning/libraries.md",
-    "research/linear attention",
+    "research/deep learning/linear attention",
     "research/deep learning/CNN.md",
     "SUSTechLearning/industrial computer networking/网络层.md",
     "SUSTechLearning/industrial computer networking/计算机网络概述.md",
@@ -236,9 +241,6 @@
     "research/linear CV/mamba.md",
     "research/linear CV/positional encoding.md",
     "research/linear CV/scanning techniques.md",
-    "SUSTechLearning/automatic control theory/state feedback.md",
-    "research/linear CV/resource.md",
-    "SUSTechLearning/multi variable system control/stability.md",
     "research/linear CV",
     "research",
     "新建文件夹",
@@ -246,7 +248,6 @@
     "SUSTechLearning/industrial computer networking",
     "SUSTechLearning/multi variable system control",
     "SUSTechLearning/digital circuits/时序逻辑",
-    "draft",
-    "research/RL/transfer learning"
+    "draft"
   ]
 }
