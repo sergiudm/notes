@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/linear attention/mamba.md",
+                "file": "research/linear attention/TTT.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "mamba"
+              "title": "TTT"
             }
           }
         ]
@@ -203,28 +203,27 @@
   },
   "active": "87af97662b12a6ed",
   "lastOpenFiles": [
-    "images/Pasted image 20250210102001.png",
     "research/linear attention/titans.md",
+    "research/linear attention/RWKV.md",
+    "research/linear attention/GLA.md",
+    "research/linear attention/gated deltanet.md",
+    "research/linear attention/deltanet.md",
+    "research/linear attention/mamba.md",
+    "images/Pasted image 20250210102001.png",
     "images/Pasted image 20250210010001.png",
     "images/Pasted image 20250210005941.png",
     "images/Pasted image 20250210005910.png",
-    "research/linear attention/gated deltanet.md",
     "images/Pasted image 20250205003408.png",
     "research/linear attention/GSA.md",
     "images/Pasted image 20250205002005.png",
     "images/Pasted image 20250205001955.png",
     "research/linear attention/ABC.md",
-    "research/linear attention/deltanet.md",
     "images/Pasted image 20250204232232.png",
     "research/linear attention/retnet.md",
     "research/linear attention/AFT.md",
     "images/Pasted image 20250204150004.png",
-    "research/linear attention/RWKV.md",
     "research/linear attention/TTT.md",
     "images/Pasted image 20250203145923.png",
-    "research/linear attention/GLA.md",
-    "images/Pasted image 20250203120937.png",
-    "research/linear attention/mamba.md",
     "research/linear attention/Gated GLA.md",
     "research/deep learning/libraries.md",
     "research/linear attention",
