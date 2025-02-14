@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/deep learning/libraries/Pytorch.md",
+                "file": "research/deep learning/libraries/jax.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pytorch"
+              "title": "jax"
             }
           }
         ]
@@ -203,8 +203,10 @@
   },
   "active": "52943d0b4cf5f22b",
   "lastOpenFiles": [
-    "research/deep learning/libraries/triton.md",
+    "research/deep learning/libraries/torchvision.md",
+    "research/deep learning/libraries/jax.md",
     "research/deep learning/libraries/Pytorch.md",
+    "research/deep learning/libraries/triton.md",
     "Difference.md",
     "[Difference.md",
     "research/deep learning/libraries.md",
@@ -229,7 +231,6 @@
     "research/deep learning/linear attention/RWKV.md",
     "research/deep learning/linear attention/GLA.md",
     "research/deep learning/linear attention/deltanet.md",
-    "research/deep learning/linear attention/mamba.md",
     "images/Pasted image 20250210102001.png",
     "images/Pasted image 20250210010001.png",
     "images/Pasted image 20250210005941.png",
@@ -237,7 +238,6 @@
     "images/Pasted image 20250205003408.png",
     "images/Pasted image 20250205002005.png",
     "images/Pasted image 20250205001955.png",
-    "research/deep learning/linear attention/ABC.md",
     "images/Pasted image 20250204232232.png",
     "images/Pasted image 20250204150004.png",
     "images/Pasted image 20250203145923.png",
