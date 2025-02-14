@@ -6,3 +6,5 @@
 
 ## `nn.Module`
 [pytorch教程之nn.Module类详解——使用Module类来自定义模型-CSDN博客](https://blog.csdn.net/qq_27825451/article/details/90550890)
+### Apply
+[Pytorch Nn.Module Apply Explained | Restackio](https://www.restack.io/p/pytorch-knowledge-nn-module-apply)
