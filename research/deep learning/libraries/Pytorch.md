@@ -9,4 +9,4 @@
 ### Apply
 [Pytorch Nn.Module Apply Explained | Restackio](https://www.restack.io/p/pytorch-knowledge-nn-module-apply)
 
-## `torch.autograd.Function`
+## `torch.autograd`
