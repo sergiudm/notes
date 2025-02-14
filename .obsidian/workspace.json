@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/deep learning/unsupervised learning/GAN.md",
+                "file": "research/deep learning/linear attention/xlstm.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "GAN"
+              "title": "xlstm"
             }
           }
         ]
@@ -203,8 +203,9 @@
   },
   "active": "87af97662b12a6ed",
   "lastOpenFiles": [
-    "research/deep learning/linear attention/GSA.md",
     "research/deep learning/unsupervised learning/GAN.md",
+    "research/deep learning/linear attention/xlstm.md",
+    "research/deep learning/linear attention/GSA.md",
     "research/deep learning/linear attention/gated deltanet.md",
     "research/deep learning/unsupervised learning/diffusion.md",
     "research/deep learning/unsupervised learning/VAE.md",
@@ -240,7 +241,6 @@
     "SUSTechLearning/industrial computer networking/物理层.md",
     "research/linear CV/mamba.md",
     "research/linear CV/positional encoding.md",
-    "research/linear CV/scanning techniques.md",
     "research/linear CV",
     "research",
     "新建文件夹",
