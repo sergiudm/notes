@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "99df5feab5694264",
+        "id": "1c71e26c4ac52181",
         "type": "tabs",
         "children": [
           {
-            "id": "87af97662b12a6ed",
+            "id": "52943d0b4cf5f22b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/deep learning/linear attention/xlstm.md",
+                "file": "research/deep learning/libraries/Pytorch.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "xlstm"
+              "title": "Pytorch"
             }
           }
         ]
@@ -201,10 +201,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "87af97662b12a6ed",
+  "active": "52943d0b4cf5f22b",
   "lastOpenFiles": [
-    "research/deep learning/unsupervised learning/GAN.md",
+    "research/deep learning/libraries/Pytorch.md",
+    "Difference.md",
+    "[Difference.md",
+    "research/deep learning/libraries/triton.md",
+    "research/deep learning/libraries.md",
+    "research/deep learning/libraries/transforemer.md",
+    "research/deep learning/libraries/timm.md",
+    "research/deep learning/libraries/einops.md",
+    "research/deep learning/libraries",
+    "research/deep learning/the backpropagation algorithm (with MLP).md",
+    "research/deep learning/how to train NNs.md",
+    "research/deep learning/why are deep NNs hard to train.md",
+    "research/deep learning/CNN.md",
     "research/deep learning/linear attention/xlstm.md",
+    "research/deep learning/unsupervised learning/GAN.md",
     "research/deep learning/linear attention/GSA.md",
     "research/deep learning/linear attention/gated deltanet.md",
     "research/deep learning/unsupervised learning/diffusion.md",
@@ -226,28 +239,15 @@
     "images/Pasted image 20250205001955.png",
     "research/deep learning/linear attention/ABC.md",
     "images/Pasted image 20250204232232.png",
-    "research/deep learning/linear attention/retnet.md",
-    "research/deep learning/linear attention/AFT.md",
     "images/Pasted image 20250204150004.png",
     "images/Pasted image 20250203145923.png",
-    "research/deep learning/linear attention/Gated GLA.md",
-    "research/deep learning/libraries.md",
     "research/deep learning/linear attention",
-    "research/deep learning/CNN.md",
-    "SUSTechLearning/industrial computer networking/网络层.md",
-    "SUSTechLearning/industrial computer networking/计算机网络概述.md",
-    "SUSTechLearning/industrial computer networking/数据链路层.md",
-    "SUSTechLearning/industrial computer networking/运输层.md",
-    "SUSTechLearning/industrial computer networking/物理层.md",
-    "research/linear CV/mamba.md",
-    "research/linear CV/positional encoding.md",
     "research/linear CV",
     "research",
     "新建文件夹",
     "新建 Text Document.txt",
     "SUSTechLearning/industrial computer networking",
     "SUSTechLearning/multi variable system control",
-    "SUSTechLearning/digital circuits/时序逻辑",
-    "draft"
+    "SUSTechLearning/digital circuits/时序逻辑"
   ]
 }
