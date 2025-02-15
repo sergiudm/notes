@@ -22,3 +22,7 @@
 
 ## `Dataset` & `DataLoder`
 
+## CUDA operators
+[Custom C++ and CUDA Operators — PyTorch Tutorials 2.6.0+cu124 documentation](https://pytorch.org/tutorials/advanced/cpp_custom_ops.html)
+
+

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/deep learning/libraries/jax.md",
+                "file": "research/deep learning/libraries/Pytorch.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "jax"
+              "title": "Pytorch"
             }
           }
         ]
@@ -203,9 +203,9 @@
   },
   "active": "52943d0b4cf5f22b",
   "lastOpenFiles": [
+    "research/deep learning/libraries/jax.md",
     "research/deep learning/libraries/triton.md",
     "research/deep learning/libraries/Pytorch.md",
-    "research/deep learning/libraries/jax.md",
     "research/deep learning/libraries/torchvision.md",
     "research/deep learning/libraries/timm.md",
     "research/deep learning/libraries/einops.md",
