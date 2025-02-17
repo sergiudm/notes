@@ -82,3 +82,5 @@ o_t &= \text{concat}(\text{SiLU}(g_t) \odot \text{LayerNorm}(r_t \cdot wkv_t)) W
 \end{aligned}
 $$
 
+## RWKV v 7
+![[Pasted image 20250217174228.png]]
