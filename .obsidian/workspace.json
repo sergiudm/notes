@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/deep learning/linear attention/lightning attention.md",
+                "file": "SUSTechLearning/optimal control and estimation/lec1 control systems.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "lightning attention"
+              "title": "lec1 control systems"
             }
           }
         ]
@@ -203,8 +203,10 @@
   },
   "active": "52943d0b4cf5f22b",
   "lastOpenFiles": [
-    "research/deep learning/libraries/Pytorch.md",
     "research/deep learning/linear attention/lightning attention.md",
+    "SUSTechLearning/optimal control and estimation/lec1 control systems.md",
+    "SUSTechLearning/optimal control and estimation",
+    "research/deep learning/libraries/Pytorch.md",
     "research/deep learning/libraries/jax.md",
     "research/deep learning/libraries/triton.md",
     "research/deep learning/libraries/torchvision.md",
@@ -230,7 +232,6 @@
     "research/deep learning/unsupervised learning",
     "research/deep learning/linear attention/titans.md",
     "research/deep learning/linear attention/RWKV.md",
-    "research/deep learning/linear attention/GLA.md",
     "images/Pasted image 20250210102001.png",
     "images/Pasted image 20250210010001.png",
     "images/Pasted image 20250210005941.png",
@@ -247,7 +248,6 @@
     "新建文件夹",
     "新建 Text Document.txt",
     "SUSTechLearning/industrial computer networking",
-    "SUSTechLearning/multi variable system control",
-    "SUSTechLearning/digital circuits/时序逻辑"
+    "SUSTechLearning/multi variable system control"
   ]
 }
