@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUSTechLearning/optimal control and estimation/lec1 control systems.md",
+                "file": "SUSTechLearning/optimal control and estimation/lec1 control systems and linear algebra review.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "lec1 control systems"
+              "title": "lec1 control systems and linear algebra review"
             }
           }
         ]
@@ -204,7 +204,7 @@
   "active": "52943d0b4cf5f22b",
   "lastOpenFiles": [
     "research/deep learning/linear attention/lightning attention.md",
-    "SUSTechLearning/optimal control and estimation/lec1 control systems.md",
+    "SUSTechLearning/optimal control and estimation/lec1 control systems and linear algebra review.md",
     "SUSTechLearning/optimal control and estimation",
     "research/deep learning/libraries/Pytorch.md",
     "research/deep learning/libraries/jax.md",
