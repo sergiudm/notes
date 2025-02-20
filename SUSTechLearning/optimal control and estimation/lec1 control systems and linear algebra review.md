@@ -6,3 +6,4 @@
 - Disturbance
 	- Variable that can affect the output, but cannot be controlled
 ## Linear algebra review
+### Inner product space

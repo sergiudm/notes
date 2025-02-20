@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "others/TOEFL.md",
+                "file": "SUSTechLearning/optimal control and estimation/lec1 control systems and linear algebra review.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TOEFL"
+              "title": "lec1 control systems and linear algebra review"
             }
           }
         ]
@@ -203,11 +203,11 @@
   },
   "active": "52943d0b4cf5f22b",
   "lastOpenFiles": [
+    "others/TOEFL.md",
     "images/Pasted image 20250219153351.png",
     "images/Pasted image 20250219153230.png",
     "images/Pasted image 20250219152643.png",
     "research/deep learning/linear attention/RWKV.md",
-    "others/TOEFL.md",
     "others",
     "SUSTechLearning/robotic motion and control",
     "images/Pasted image 20250217174228.png",
@@ -243,7 +243,6 @@
     "images/Pasted image 20250210005910.png",
     "images/Pasted image 20250205003408.png",
     "images/Pasted image 20250205002005.png",
-    "images/Pasted image 20250205001955.png",
     "research/deep learning/linear attention",
     "research/linear CV",
     "research",
