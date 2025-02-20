@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUSTechLearning/optimal control and estimation/lec1 control systems and linear algebra review.md",
+                "file": "research/deep learning/sparse attention/MOBA.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "lec1 control systems and linear algebra review"
+              "title": "MOBA"
             }
           }
         ]
@@ -203,6 +203,10 @@
   },
   "active": "52943d0b4cf5f22b",
   "lastOpenFiles": [
+    "research/deep learning/sparse attention/NSA.md",
+    "research/deep learning/sparse attention/MOBA.md",
+    "SUSTechLearning/optimal control and estimation/lec1 control systems and linear algebra review.md",
+    "research/deep learning/sparse attention",
     "others/TOEFL.md",
     "images/Pasted image 20250219153351.png",
     "images/Pasted image 20250219153230.png",
@@ -211,7 +215,6 @@
     "others",
     "SUSTechLearning/robotic motion and control",
     "images/Pasted image 20250217174228.png",
-    "SUSTechLearning/optimal control and estimation/lec1 control systems and linear algebra review.md",
     "research/deep learning/linear attention/lightning attention.md",
     "SUSTechLearning/optimal control and estimation",
     "research/deep learning/libraries/Pytorch.md",
@@ -235,7 +238,6 @@
     "research/deep learning/linear attention/gated deltanet.md",
     "research/deep learning/unsupervised learning/diffusion.md",
     "research/deep learning/unsupervised learning/VAE.md",
-    "research/deep learning/unsupervised learning/normalizing flows.md",
     "research/deep learning/unsupervised learning",
     "images/Pasted image 20250210102001.png",
     "images/Pasted image 20250210010001.png",
@@ -246,7 +248,6 @@
     "research/deep learning/linear attention",
     "research/linear CV",
     "research",
-    "新建文件夹",
-    "新建 Text Document.txt"
+    "新建文件夹"
   ]
 }
