@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/deep learning/sparse attention/MOBA.md",
+                "file": "research/deep learning/sparse attention/MoBA.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOBA"
+              "title": "MoBA"
             }
           }
         ]
@@ -204,7 +204,7 @@
   "active": "52943d0b4cf5f22b",
   "lastOpenFiles": [
     "research/deep learning/sparse attention/NSA.md",
-    "research/deep learning/sparse attention/MOBA.md",
+    "research/deep learning/sparse attention/MoBA.md",
     "SUSTechLearning/optimal control and estimation/lec1 control systems and linear algebra review.md",
     "research/deep learning/sparse attention",
     "others/TOEFL.md",
