@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/deep learning/sparse attention/MoBA.md",
+                "file": "research/deep learning/sparse vision attention/DAT.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MoBA"
+              "title": "DAT"
             }
           }
         ]
@@ -203,8 +203,11 @@
   },
   "active": "52943d0b4cf5f22b",
   "lastOpenFiles": [
-    "research/deep learning/sparse attention/NSA.md",
+    "research/deep learning/sparse vision attention/deformable detr.md",
+    "research/deep learning/sparse vision attention/DAT.md",
     "research/deep learning/sparse attention/MoBA.md",
+    "research/deep learning/sparse vision attention",
+    "research/deep learning/sparse attention/NSA.md",
     "SUSTechLearning/optimal control and estimation/lec1 control systems and linear algebra review.md",
     "research/deep learning/sparse attention",
     "others/TOEFL.md",
@@ -236,8 +239,6 @@
     "research/deep learning/unsupervised learning/GAN.md",
     "research/deep learning/linear attention/GSA.md",
     "research/deep learning/linear attention/gated deltanet.md",
-    "research/deep learning/unsupervised learning/diffusion.md",
-    "research/deep learning/unsupervised learning/VAE.md",
     "research/deep learning/unsupervised learning",
     "images/Pasted image 20250210102001.png",
     "images/Pasted image 20250210010001.png",
@@ -247,7 +248,6 @@
     "images/Pasted image 20250205002005.png",
     "research/deep learning/linear attention",
     "research/linear CV",
-    "research",
-    "新建文件夹"
+    "research"
   ]
 }
