@@ -6,5 +6,21 @@
 >Inverse kinematics: given desired position and orientation of the end-effector, find the set of possible joint angles which support such position and orientation
 
 Eg. 1
-$$p_x=l_1cos(\theta_1)+l_2cos(\theta_2) 
+Forward:
 $$
+\begin{align*}
+p_x=l_1cos(\theta_1)+l_2cos(\theta_2) \\
+p_y=l_1sin(\theta_1)+l_2sin(\theta_2)
+\end{align*}
+$$
+Inverse:
+$$
+\begin{align*}
+\theta_1 = ...(f_1(p_x,p_y))\\
+\theta_2 = ...(f_2(p_x,p_y))
+\end{align*}
+$$
+#### Joint space and cartesian space
+> Joint space:
+> Cartesian space: task space
+
