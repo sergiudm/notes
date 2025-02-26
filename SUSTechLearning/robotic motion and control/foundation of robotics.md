@@ -16,7 +16,7 @@ $$
 Inverse:
 $$
 \begin{align*}
-\theta_1 = ...(f_1(p_x,p_y))\\
+\theta_1 = f_1(p_x,p_y))\\
 \theta_2 = ...(f_2(p_x,p_y))
 \end{align*}
 $$
@@ -35,4 +35,19 @@ $$
 \dot{\theta_n}
 \end{bmatrix}
 $$
-, 
+, find 
+$$
+\begin{bmatrix}
+\dot{p_x}\\
+\dot{p_y}
+\end{bmatrix}
+$$
+And 
+$$
+\begin{bmatrix}
+\dot{\omega_x}\\
+\dot{\omega_y}
+\end{bmatrix}
+$$
+Eg.
+
