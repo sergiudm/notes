@@ -16,8 +16,8 @@ $$
 Inverse:
 $$
 \begin{align*}
-\theta_1 = f_1(p_x,p_y))\\
-\theta_2 = ...(f_2(p_x,p_y))
+\theta_1 = f_1(p_x,p_y)\\
+\theta_2 = f_2(p_x,p_y)
 \end{align*}
 $$
 ##### Joint space and cartesian space
