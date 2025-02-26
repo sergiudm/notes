@@ -26,3 +26,9 @@ $$
 
 #### First-order analysis: velocity relationships between the joint space and cartesian space
 Forward, 
+Given
+$$
+\begin{bmatrix}
+
+\end{bmatrix}
+$$
