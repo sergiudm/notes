@@ -20,7 +20,8 @@ $$
 \theta_2 = ...(f_2(p_x,p_y))
 \end{align*}
 $$
-#### Joint space and cartesian space
+##### Joint space and cartesian space
 > Joint space:
 > Cartesian space: task space
 
+#### First-order analysis: velocity relationships between the joint space and cartesian space
