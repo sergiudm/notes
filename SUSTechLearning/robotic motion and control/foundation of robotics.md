@@ -25,10 +25,10 @@ $$
 > Cartesian space: task space
 
 #### First-order analysis: velocity relationships between the joint space and cartesian space
-Forward, 
+##### Forward :
 Given
 $$
-\begin{bmatrix}
+\Theta=\begin{bmatrix}
 \dot{\theta_1} \\
 \dot{\theta_2}\\
 \vdots \\
@@ -49,4 +49,15 @@ $$
 \dot{\omega_y}
 \end{bmatrix}
 $$
-Eg.
+Specifically, 
+$$
+\mathbb{\dot{P}}=Jacobian(\Theta) \cdot \mathbb{\dot{\Theta}}
+$$
+##### Inverse :
+$$
+\mathbb{\dot{\Theta}}=Jacobian^{-1}(\Theta) \cdot \mathbb{\dot{P}}
+$$
+#### Second-order analysis
+> Given the desired dynamic motion profile in terms of $\Theta$, $\dot{\Theta}$, and $\ddot{\Theta}$ in joint space, how to find the required torque and force of each joint
+
+
