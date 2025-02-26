@@ -29,6 +29,10 @@ Forward,
 Given
 $$
 \begin{bmatrix}
-
+\dot{\theta_1} \\
+\dot{\theta_2}\\
+\vdots \\
+\dot{\theta_n}
 \end{bmatrix}
 $$
+, 
