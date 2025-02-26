@@ -11,10 +11,24 @@
             "id": "52943d0b4cf5f22b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "SUSTechLearning/robotic motion and control/foundation of robotics.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "foundation of robotics"
             }
           }
         ]
@@ -187,8 +201,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8425e6989abaad77",
+  "active": "52943d0b4cf5f22b",
   "lastOpenFiles": [
+    "SUSTechLearning/robotic motion and control/foundation of robotics.md",
     "research/deep learning/sparse vision attention/deformable detr.md",
     "research/deep learning/sparse vision attention/swin.md",
     "research/deep learning/sparse vision attention/DAT.md",
@@ -224,7 +239,6 @@
     "research/deep learning/CNN.md",
     "research/deep learning/linear attention/xlstm.md",
     "research/deep learning/unsupervised learning/GAN.md",
-    "research/deep learning/linear attention/GSA.md",
     "research/deep learning/unsupervised learning",
     "images/Pasted image 20250210102001.png",
     "images/Pasted image 20250210010001.png",
