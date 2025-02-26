@@ -5,3 +5,6 @@
 
 >Inverse kinematics: given desired position and orientation of the end-effector, find the set of possible joint angles which support such position and orientation
 
+Eg. 1
+$$p_x=l_1cos(\theta_1)+l_2cos(\theta_2) 
+$$
