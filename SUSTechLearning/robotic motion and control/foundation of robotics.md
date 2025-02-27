@@ -60,4 +60,24 @@ $$
 #### Second-order analysis
 > Given the desired dynamic motion profile in terms of $\Theta$, $\dot{\Theta}$, and $\ddot{\Theta}$ in joint space, how to find the required torque and force of each joint
 
-
+##### The dynamic equation in joint space
+$$
+\mathbb{M(\Theta)\dot{\Theta}+V(\Theta,\dot\Theta)+G(\Theta)=\tau}
+$$
+Where $\mathbb M(\Theta)\dot\Theta$ is a $n \times n$ positive definite mass matrix,
+$\mathbb V$ is a velocity relations matrix
+##### Popular forms of dynamic equation
+- Newton-Euler formulation
+	- Force\torque based approach
+	- Iterative -> suitable for computer programming
+- Lagrangian formulation
+	- Energy based approach
+	- Closed-form solution-> suitable for analysis
+- Regressor formulation
+	- Linearized representation in terms of robot dynamic params
+	- Suitable for control law design
+###### Regressor form
+$$
+\mathbb{M(\Theta)\dot{\Theta}+V(\Theta,\dot\Theta)+G(\Theta)=Y(\Theta,\dot\Theta,\ddot\Theta)\Phi}
+$$
+Where $Y(\Theta,\dot\Theta,\ddot\Theta)$ is the regressor matrix, and $\Phi$ is the robot dynam
