@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/deep learning/sparse vision attention/DCN.md",
+                "file": "CS/OS/进程和线程.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DCN"
+              "title": "进程和线程"
             }
           }
         ]
@@ -203,8 +203,15 @@
   },
   "active": "52943d0b4cf5f22b",
   "lastOpenFiles": [
-    "research/deep learning/CNN.md",
+    "CS/OS/构成.md",
+    "CS/OS/进程和线程.md",
+    "images/Pasted image 20250227234150.png",
+    "CS/OS/overview.md",
     "research/deep learning/sparse vision attention/DCN.md",
+    "CS/OS",
+    "research/docker/基本概念.md",
+    "CS",
+    "research/deep learning/CNN.md",
     "SUSTechLearning/robotic motion and control/foundation of robotics.md",
     "research/deep learning/linear attention/RWKV.md",
     "research/deep learning/linear attention/mamba.md",
@@ -234,20 +241,13 @@
     "research/deep learning/libraries/einops.md",
     "research/deep learning/libraries/transformer.md",
     "Difference.md",
-    "[Difference.md",
-    "research/deep learning/libraries.md",
     "research/deep learning/libraries",
-    "research/deep learning/the backpropagation algorithm (with MLP).md",
-    "research/deep learning/how to train NNs.md",
     "research/deep learning/unsupervised learning",
     "images/Pasted image 20250210102001.png",
     "images/Pasted image 20250210010001.png",
     "images/Pasted image 20250210005941.png",
     "images/Pasted image 20250210005910.png",
     "images/Pasted image 20250205003408.png",
-    "images/Pasted image 20250205002005.png",
-    "research/deep learning/linear attention",
-    "research/linear CV",
-    "research"
+    "research/deep learning/linear attention"
   ]
 }
