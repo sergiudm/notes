@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/OS/进程和线程.md",
+                "file": "CS/OS/内存管理.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "进程和线程"
+              "title": "内存管理"
             }
           }
         ]
@@ -203,9 +203,10 @@
   },
   "active": "52943d0b4cf5f22b",
   "lastOpenFiles": [
+    "CS/OS/进程和线程.md",
+    "CS/OS/内存管理.md",
     "CS/OS/构成.md",
     "CS/OS/overview.md",
-    "CS/OS/进程和线程.md",
     "images/Pasted image 20250227234150.png",
     "research/deep learning/sparse vision attention/DCN.md",
     "CS/OS",
@@ -240,7 +241,6 @@
     "research/deep learning/libraries/timm.md",
     "research/deep learning/libraries/einops.md",
     "research/deep learning/libraries/transformer.md",
-    "Difference.md",
     "research/deep learning/libraries",
     "research/deep learning/unsupervised learning",
     "images/Pasted image 20250210102001.png",
