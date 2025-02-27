@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUSTechLearning/robotic motion and control/foundation of robotics.md",
+                "file": "research/deep learning/sparse vision attention/DCN.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "foundation of robotics"
+              "title": "DCN"
             }
           }
         ]
@@ -203,8 +203,10 @@
   },
   "active": "52943d0b4cf5f22b",
   "lastOpenFiles": [
-    "research/deep learning/linear attention/RWKV.md",
+    "research/deep learning/CNN.md",
+    "research/deep learning/sparse vision attention/DCN.md",
     "SUSTechLearning/robotic motion and control/foundation of robotics.md",
+    "research/deep learning/linear attention/RWKV.md",
     "research/deep learning/linear attention/mamba.md",
     "research/deep learning/linear attention/xlstm.md",
     "research/deep learning/sparse vision attention/deformable detr.md",
@@ -237,8 +239,6 @@
     "research/deep learning/libraries",
     "research/deep learning/the backpropagation algorithm (with MLP).md",
     "research/deep learning/how to train NNs.md",
-    "research/deep learning/why are deep NNs hard to train.md",
-    "research/deep learning/CNN.md",
     "research/deep learning/unsupervised learning",
     "images/Pasted image 20250210102001.png",
     "images/Pasted image 20250210010001.png",
