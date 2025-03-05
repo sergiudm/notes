@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/OS/进程和线程.md",
+                "file": "SUSTechLearning/robotic motion and control/spatial description and homogeneous transformation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "进程和线程"
+              "title": "spatial description and homogeneous transformation"
             }
           }
         ]
@@ -164,12 +164,22 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
             "id": "32e724baf6beafb5",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f02e1adf7a6ab2d9",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -179,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -203,9 +213,11 @@
   },
   "active": "52943d0b4cf5f22b",
   "lastOpenFiles": [
+    "SUSTechLearning/robotic motion and control/foundation of robotics.md",
+    "SUSTechLearning/robotic motion and control/spatial description and homogeneous transformation.md",
+    "CS/OS/进程和线程.md",
     "images/Pasted image 20250228014302.png",
     "CS/OS/内存管理.md",
-    "CS/OS/进程和线程.md",
     "images/Pasted image 20250228013716.png",
     "images/Pasted image 20250228012902.png",
     "images/Pasted image 20250228012536.png",
@@ -217,7 +229,6 @@
     "research/docker/基本概念.md",
     "CS",
     "research/deep learning/CNN.md",
-    "SUSTechLearning/robotic motion and control/foundation of robotics.md",
     "research/deep learning/linear attention/RWKV.md",
     "research/deep learning/linear attention/mamba.md",
     "research/deep learning/linear attention/xlstm.md",
@@ -247,7 +258,6 @@
     "research/deep learning/libraries",
     "research/deep learning/unsupervised learning",
     "images/Pasted image 20250210102001.png",
-    "images/Pasted image 20250210010001.png",
     "research/deep learning/linear attention"
   ]
 }
