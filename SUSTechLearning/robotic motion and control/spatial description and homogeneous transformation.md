@@ -56,6 +56,23 @@ $$
 Where ${}^A\mathbb{T}$ is the translation vector from {A} to {B}
 
 ### Mapping involving rotated frames
-given {A} and {B}, where {B} is obt
-
-
+given {A} and {B}, where {B} is obtained by rotating {A} by certain angle $\theta$ around a certain axis ${}^A\hat{n}$, let 
+$$
+{}^A\mathbb{P}=
+\begin{bmatrix}
+{}^A\mathbb{P}_x \\
+{}^A\mathbb{P}_y \\
+{}^A\mathbb{P}_z
+\end{bmatrix}
+$$
+where
+$$
+{}^A\mathbb{P}_x={}^A\mathbb{P} \cdot {}^A\hat{x}
+$$
+$$
+{}^A\mathbb{P}_y={}^A\mathbb{P} \cdot {}^A\hat{y}
+$$
+$$
+{}^A\mathbb{P}_z={}^A\mathbb{P} \cdot {}^A\hat{z}
+$$
+(${}^A\hat{x}$ means the unit vector along the x-axis in {A}, and ${}^A\mathbf{P}_x$ means the projection of ${}^A\mathbb{P}$ onto ${}^A\hat{x}$)
