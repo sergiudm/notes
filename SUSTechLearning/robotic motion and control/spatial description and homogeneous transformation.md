@@ -10,7 +10,11 @@ $$
 ### Orientation vector
 Given {A}, the orientation of the 3D object can be described by {B}, i.e. by three unit vectors along its principal axes, in relation to {A}:
 $$
-{}^{A}{x_B},\space {}^{A}{y_B},\space{}^{A}{z_B},
+{}_B^AR=\begin{bmatrix}
+	{}^A(\hat{x_B})_x & {}^A(\hat{x_B})_y & {}^A(\hat{x_B})_z \\
+	{}^A(\hat{y_B})_x & {}^A(\hat{y_B})_y & {}^A(\hat{y_B})_z \\
+	{}^A(\hat{z_B})_x & {}^A(\hat{z_B})_y & {}^A(\hat{z_B})_z \\
+\end{bmatrix}
 $$
 Where
 $$
@@ -39,7 +43,24 @@ $$
 {}^A\hat{x_B} {}^A\hat{y_B} {}^A\hat{z_B} 
 \end{bmatrix}
 $$
+
 ## Homogeneous transformation: changing description from frame to frame
 ### Mapping involving translated frames
 For a position $\mathbb{P}$ in {A}, it's coordinate is ${}^A\mathbb{P}$
 While in {B}, it's ${}^{B}\mathbb{P}$,
+
+then
+$$
+{}^B\mathbb{P}={}^A\mathbb{P}+{}^A\mathbb{T}
+$$
+Where ${}^A\mathbb{T}$ is the translation vector from {A} to {B}
+
+### Mapping involving rotated frames
+For a position $\mathbb{P}$ in {A}, it's coordinate is ${}^A\mathbb{P}$
+While in {B}, it's ${}^{B}\mathbb{P}$,
+then
+$$
+{}^B\mathbb{P}={}^A\mathbb{P}R
+$$
+Where $R$ is the rotation matrix from {A} to {B}
+
