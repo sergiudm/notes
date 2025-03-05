@@ -39,3 +39,7 @@ $$
 {}^A\hat{x_B} {}^A\hat{y_B} {}^A\hat{z_B} 
 \end{bmatrix}
 $$
+## Homogeneous transformation: changing description from frame to frame
+### Mapping involving translated frames
+For a position $\mathbb{P}$ in {A}, it's coordinate is ${}^A\mathbb{P}$
+While in {B}, it's ${}^{B}\mathbb{P}$
