@@ -56,11 +56,6 @@ $$
 Where ${}^A\mathbb{T}$ is the translation vector from {A} to {B}
 
 ### Mapping involving rotated frames
-For a position $\mathbb{P}$ in {A}, it's coordinate is ${}^A\mathbb{P}$
-While in {B}, it's ${}^{B}\mathbb{P}$,
-then
-$$
-{}^B\mathbb{P}={}^A\mathbb{P}R
-$$
-Where $R$ is the rotation matrix from {A} to {B}
+given {A} and {B}, where {B} is obt
+
 
