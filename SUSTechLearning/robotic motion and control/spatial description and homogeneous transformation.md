@@ -76,3 +76,39 @@ $$
 {}^A\mathbb{P}_z={}^A\mathbb{P} \cdot {}^A\hat{z}
 $$
 (${}^A\hat{x}$ means the unit vector along the x-axis in {A}, and ${}^A\mathbf{P}_x$ means the projection of ${}^A\mathbb{P}$ onto ${}^A\hat{x}$)
+
+### Combined rotation and translation: Homogeneous Transformation Matrix
+To simultaneously represent both orientation and position between frames {A} and {B}, we use a 4×4 matrix:
+$$
+{}^A_BT = \begin{bmatrix}
+{}^A_BR & {}^A\mathbb{T} \\
+0 & 1
+\end{bmatrix} = \begin{bmatrix}
+r_{11} & r_{12} & r_{13} & t_x \\
+r_{21} & r_{22} & r_{23} & t_y \\
+r_{31} & r_{32} & r_{33} & t_z \\
+0 & 0 & 0 & 1
+\end{bmatrix}
+$$
+Where:
+- ${}^A_BR$ is the 3×3 rotation matrix
+- ${}^A\mathbb{T} = [t_x, t_y, t_z]^T$ is the translation vector
+
+This allows us to transform coordinates between frames using matrix multiplication:
+$$
+\begin{bmatrix}
+{}^B\mathbb{P} \\
+1
+\end{bmatrix}
+= {}^A_BT \begin{bmatrix}
+{}^A\mathbb{P} \\
+1
+\end{bmatrix}
+$$
+
+Key properties:
+1. Composition: ${}^A_CT = {}^A_BT \cdot {}^B_CT$
+2. Inverse: ${}^B_AT = \begin{bmatrix}
+{}^A_BR^T & -{}^A_BR^T{}^A\mathbb{T} \\
+0 & 1
+\end{bmatrix}$
