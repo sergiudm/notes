@@ -35,6 +35,15 @@ Pr(\mathbf{x}|\mathbf{z}_1, \phi_1) &= \text{Norm}_{\mathbf{x}}[\mathbf{f}_1[\ma
 $$
 Where $f_t[\mathbf z_t, \mathbf\phi_t]$ is a neural network that computes the mean of the normal distribution in the estimated mapping from $\mathbf{z}_t$ to the preceding latent variable $\mathbf{z}_{t−1}$.
 ## Training
+$$
+\begin{aligned}
+&\text{To train the model, we maximize the log-likelihood of the training data } \{\mathbf{x}_i\} \text{ with} \\
+&\text{respect to the parameters } \boldsymbol{\phi}\text{:} \\
+&\hat{\boldsymbol{\phi}}_{1...T} = \underset{\boldsymbol{\phi}_{1...T}}{\text{argmax}} \left[ \sum_{i=1}^{I} \log[Pr(\mathbf{x}_i|\boldsymbol{\phi}_{1...T})] \right]. 
+\end{aligned}
+$$
+Where $Pr(\mathbf{x}|\boldsymbol{\phi}_{1...T}) = \int Pr(\mathbf{x}, \mathbf{z}_{1...T}|\boldsymbol{\phi}_{1...T})d\mathbf{z}_{1...T}$ and $Pr(\mathbf{x}, \mathbf{z}_{1...T}|\boldsymbol{\phi}_{1...T}) = Pr(\mathbf{x}|\mathbf{z}_1, \phi_1) \prod_{t=2}^{T} Pr(\mathbf{z}_{t-1}|\mathbf{z}_t, \phi_t) \cdot Pr(\mathbf{z}_T)$.
+
 ### ELBO
 ### Diffusion loss function
 #### Reparameterization of loss function
