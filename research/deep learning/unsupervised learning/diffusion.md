@@ -6,7 +6,11 @@ q(\mathbf{z}_t|\mathbf{x}) = \text{Norm}_{\mathbf{z}_t} \Big[ \sqrt{\alpha_t} \c
 $$
 Where $q(\mathbf{z}_t|\mathbf{x}) = \text{Norm}_{\mathbf{z}_t} \Big[ \sqrt{\alpha_t} \cdot \mathbf{x}, (1 - \alpha_t)\mathbf{I} \Big]$ and 
 #### Marginal distribution $q(z_t)$
-#### Conditional distribution $q(z_t|z_{t-1})$
+$$
+q(\mathbf{z}_t) = \int q(\mathbf{z}_t|\mathbf{x}) Pr(\mathbf{x})d\mathbf{x}
+$$
+#### Conditional distribution $q(\mathbf{z}_{t-1}|\mathbf{z}_t)$
+
 #### Conditional diffusion distribution $q(z_{t-1}|z_t,x)$
 
 ### Decoder (backward process)
