@@ -47,3 +47,5 @@ $$
 we aim to build a model that computes the evidence lower bound for a point $\mathbf{x}$.
 ![[Screenshot 2025-03-09 at 2.32.54 AM.png]]
 
+### The reparameterization trick
+
