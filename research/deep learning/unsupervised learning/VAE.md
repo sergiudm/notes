@@ -38,4 +38,8 @@ In practice:
 $$
 \text{ELBO}[\boldsymbol{\theta}, \phi] \approx \log[Pr(\mathbf{x}|\mathbf{z}^{*}, \phi)] - D_{KL} \Big[ q(\mathbf{z}|\mathbf{x}, \boldsymbol{\theta}) || Pr(\mathbf{z}) \Big]
 $$
+And 
+$$
+q(\mathbf{z}|\mathbf{x}, \boldsymbol{\theta}) = \text{Norm}_{\mathbf{z}} \Big[ \mathbf{g}_{\mu}[\mathbf{x}, \boldsymbol{\theta}], \mathbf{g}_{\Sigma}[\mathbf{x}, \boldsymbol{\theta}] \Big]
+$$
 
