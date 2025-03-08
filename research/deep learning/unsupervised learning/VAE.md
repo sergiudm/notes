@@ -6,3 +6,7 @@ It's the pro version of parameter estimation
 ### Nonlinear latent variable model
 
 ## Training
+### ELBO
+$$
+\log \left[ \int q(\mathbf{z}) \frac{Pr(\mathbf{x}, \mathbf{z}|\phi)}{q(\mathbf{z})}d\mathbf{z} \right] \geq \int q(\mathbf{z}) \log \left[ \frac{Pr(\mathbf{x}, \mathbf{z}|\phi)}{q(\mathbf{z})} \right] d\mathbf{z}
+$$
