@@ -3,6 +3,6 @@
 
 It's the pro version of parameter estimation
 ## Generation
-### Latent variable models
+### Nonlinear latent variable model
 
 ## Training
