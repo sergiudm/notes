@@ -5,7 +5,7 @@ It's the pro version of parameter estimation
 ## Generation
 ### Nonlinear latent variable model
 
-## Training
+## Training![[Screenshot 2025-03-09 at 3.08.36 AM.png]]
 ### ELBO
 $$
 \log \left[ \int q(\mathbf{z}) \frac{Pr(\mathbf{x}, \mathbf{z}|\phi)}{q(\mathbf{z})}d\mathbf{z} \right] \geq \int q(\mathbf{z}) \log \left[ \frac{Pr(\mathbf{x}, \mathbf{z}|\phi)}{q(\mathbf{z})} \right] d\mathbf{z}
@@ -48,4 +48,5 @@ we aim to build a model that computes the evidence lower bound for a point $\mat
 ![[Screenshot 2025-03-09 at 2.32.54 AM.png]]
 
 ### The reparameterization trick
+![[Screenshot 2025-03-09 at 3.08.36 AM.png]]
 
