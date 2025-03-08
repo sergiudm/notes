@@ -45,6 +45,10 @@ $$
 Where $Pr(\mathbf{x}|\boldsymbol{\phi}_{1...T}) = \int Pr(\mathbf{x}, \mathbf{z}_{1...T}|\boldsymbol{\phi}_{1...T})d\mathbf{z}_{1...T}$ and $Pr(\mathbf{x}, \mathbf{z}_{1...T}|\boldsymbol{\phi}_{1...T}) = Pr(\mathbf{x}|\mathbf{z}_1, \phi_1) \prod_{t=2}^{T} Pr(\mathbf{z}_{t-1}|\mathbf{z}_t, \phi_t) \cdot Pr(\mathbf{z}_T)$.
 
 ### ELBO
+$$
+\text{ELBO}[\boldsymbol{\phi}_{1...T}] = \int q(\mathbf{z}_{1...T}|\mathbf{x}) \log \left[ \frac{Pr(\mathbf{x}, \mathbf{z}_{1...T}|\boldsymbol{\phi}_{1...T})}{q(\mathbf{z}_{1...T}|\mathbf{x})} \right] d\mathbf{z}_{1...T}
+$$
+
 ### Diffusion loss function
 #### Reparameterization of loss function
 ##### Reparameterization of target
