@@ -16,4 +16,9 @@ $$
 
 ## orientation
 ${}^A_B R$: 
-
+$$
+{}^A_B R = \begin{bmatrix}
+{}^AX_B & {}^AY_B & {}^AZ_B
+\end{bmatrix}
+$$
+where ${}^AX_B$, ${}^AY_B$, and ${}^AZ_B$ are the unit vectors of the coordinate system {B} in the coordinate system {A}.
