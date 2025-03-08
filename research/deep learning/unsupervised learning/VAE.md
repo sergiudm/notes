@@ -22,13 +22,14 @@ $$
 &= \log[Pr(\mathbf{x}|\phi)] - D_{KL} \Big[ q(\mathbf{z}|\boldsymbol{\theta}) || Pr(\mathbf{z}|\mathbf{x}, \phi) \Big]
 \end{aligned}
 $$
+Thus, The KL distance will be zero, and the bound will be tight when $q(z|θ) = P r(z|x, ϕ)$.
 In VAE:
 $$
 \begin{aligned}
 \text{ELBO}[\boldsymbol{\theta}, \phi] &= \int q(\mathbf{z}|\boldsymbol{\theta}) \log \left[ \frac{Pr(\mathbf{x}, \mathbf{z}|\phi)}{q(\mathbf{z}|\boldsymbol{\theta})} \right] d\mathbf{z} \\
 &= \int q(\mathbf{z}|\boldsymbol{\theta}) \log \left[ \frac{Pr(\mathbf{x}|\mathbf{z}, \phi)Pr(\mathbf{z})}{q(\mathbf{z}|\boldsymbol{\theta})} \right] d\mathbf{z} \\
 &= \int q(\mathbf{z}|\boldsymbol{\theta}) \log[Pr(\mathbf{x}|\mathbf{z}, \phi)] d\mathbf{z} + \int q(\mathbf{z}|\boldsymbol{\theta}) \log \left[ \frac{Pr(\mathbf{z})}{q(\mathbf{z}|\boldsymbol{\theta})} \right] d\mathbf{z} \\
-&= \int q(\mathbf{z}|\boldsymbol{\theta}) \log[Pr(\mathbf{x}|\mathbf{z}, \phi)] d\mathbf{z} - D_{KL} \Big[ q(\mathbf{z}|\boldsymbol{\theta}) || Pr(\mathbf{z}) \Big],
+&= \int q(\mathbf{z}|\boldsymbol{\theta}) \log[Pr(\mathbf{x}|\mathbf{z}, \phi)] d\mathbf{z} - D_{KL} \Big[ q(\mathbf{z}|\boldsymbol{\theta}) || Pr(\mathbf{z}) \Big]
 \end{aligned}
 $$
 
@@ -42,4 +43,7 @@ And
 $$
 q(\mathbf{z}|\mathbf{x}, \boldsymbol{\theta}) = \text{Norm}_{\mathbf{z}} \Big[ \mathbf{g}_{\mu}[\mathbf{x}, \boldsymbol{\theta}], \mathbf{g}_{\Sigma}[\mathbf{x}, \boldsymbol{\theta}] \Big]
 $$
+## VAE algorithm
+we aim to build a model that computes the evidence lower bound for a point $\mathbf{x}$.
+![[Screenshot 2025-03-09 at 2.32.54 AM.png]]
 
