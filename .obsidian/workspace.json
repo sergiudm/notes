@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUSTechLearning/robotic motion and control/spatial description and homogeneous transformation.md",
+                "file": "research/deep learning/unsupervised learning/diffusion.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "spatial description and homogeneous transformation"
+              "title": "diffusion"
             }
           }
         ]
@@ -213,8 +213,8 @@
   },
   "active": "52943d0b4cf5f22b",
   "lastOpenFiles": [
-    "SUSTechLearning/robotic motion and control/foundation of robotics.md",
     "SUSTechLearning/robotic motion and control/spatial description and homogeneous transformation.md",
+    "SUSTechLearning/robotic motion and control/foundation of robotics.md",
     "CS/OS/进程和线程.md",
     "images/Pasted image 20250228014302.png",
     "CS/OS/内存管理.md",
