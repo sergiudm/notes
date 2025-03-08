@@ -50,6 +50,13 @@ $$
 $$
 
 ### Diffusion loss function
+$$
+\begin{aligned}
+L[\boldsymbol{\phi}_{1...T}] &= \sum_{i=1}^{I} \overbrace{\Big( -\log \big[ \text{Norm}_{\mathbf{x}_i} \left[ \mathbf{f}_1[\mathbf{z}_{i1}, \boldsymbol{\phi}_1], \sigma_1^2 \mathbf{I} \right] \big] \Big)}^{\text{reconstruction term}} \\
+&+ \sum_{t=2}^{T} \frac{1}{2\sigma_t^2} \Big\Vert \overbrace{\frac{1 - \alpha_{t-1}}{1 - \alpha_t} \sqrt{1-\beta_t} \mathbf{z}_{it} + \frac{\sqrt{\alpha_{t-1}}\beta_t}{1-\alpha_t} \mathbf{x}_i}^{\text{target, mean of } q(\mathbf{z}_{t-1}|\mathbf{z}_t, \mathbf{x})} - \underbrace{\mathbf{f}_t[\mathbf{z}_{it}, \boldsymbol{\phi}_t]}_{\text{predicted } \mathbf{z}_{t-1}} \Big\Vert^2 \Big),
+\end{aligned}
+$$
 #### Reparameterization of loss function
+
 ##### Reparameterization of target
 ##### Reparameterization of network
