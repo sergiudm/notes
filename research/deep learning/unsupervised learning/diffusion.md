@@ -10,7 +10,9 @@ $$
 q(\mathbf{z}_t) = \int q(\mathbf{z}_t|\mathbf{x}) Pr(\mathbf{x})d\mathbf{x}
 $$
 #### Conditional distribution $q(\mathbf{z}_{t-1}|\mathbf{z}_t)$
-
+$$
+q(\mathbf{z}_{t-1}|\mathbf{z}_t) = \frac{q(\mathbf{z}_t|\mathbf{z}_{t-1})q(\mathbf{z}_{t-1})}{q(\mathbf{z}_t)}
+$$
 #### Conditional diffusion distribution $q(z_{t-1}|z_t,x)$
 
 ### Decoder (backward process)
