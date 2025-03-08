@@ -22,4 +22,14 @@ $$
 &= \log[Pr(\mathbf{x}|\phi)] - D_{KL} \Big[ q(\mathbf{z}|\boldsymbol{\theta}) || Pr(\mathbf{z}|\mathbf{x}, \phi) \Big]
 \end{aligned}
 $$
+In VAE:
+$$
+\begin{aligned}
+\text{ELBO}[\boldsymbol{\theta}, \phi] &= \int q(\mathbf{z}|\boldsymbol{\theta}) \log \left[ \frac{Pr(\mathbf{x}, \mathbf{z}|\phi)}{q(\mathbf{z}|\boldsymbol{\theta})} \right] d\mathbf{z} \\
+&= \int q(\mathbf{z}|\boldsymbol{\theta}) \log \left[ \frac{Pr(\mathbf{x}|\mathbf{z}, \phi)Pr(\mathbf{z})}{q(\mathbf{z}|\boldsymbol{\theta})} \right] d\mathbf{z} \\
+&= \int q(\mathbf{z}|\boldsymbol{\theta}) \log[Pr(\mathbf{x}|\mathbf{z}, \phi)] d\mathbf{z} + \int q(\mathbf{z}|\boldsymbol{\theta}) \log \left[ \frac{Pr(\mathbf{z})}{q(\mathbf{z}|\boldsymbol{\theta})} \right] d\mathbf{z} \\
+&= \int q(\mathbf{z}|\boldsymbol{\theta}) \log[Pr(\mathbf{x}|\mathbf{z}, \phi)] d\mathbf{z} - D_{KL} \Big[ q(\mathbf{z}|\boldsymbol{\theta}) || Pr(\mathbf{z}) \Big],
+\end{aligned}
+$$
 
+the first term measures the average agreement $Pr(x|z, ϕ)$ of the latent variable and the data. This measures the reconstruction accuracy. The second term measures the degree to which the auxiliary distribution $q(z|θ)$ matches the prior
