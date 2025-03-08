@@ -18,7 +18,22 @@ $$
 ${}^A_B R$: 
 $$
 {}^A_B R = \begin{bmatrix}
-{}^AX_B & {}^AY_B & {}^AZ_B
+{}^A\hat X_B & {}^A \hat Y_B & {}^A\hat Z_B
 \end{bmatrix}
 $$
 where ${}^AX_B$, ${}^AY_B$, and ${}^AZ_B$ are the unit vectors of the coordinate system {B} in the coordinate system {A}.
+
+$$
+\begin{bmatrix}
+{}^A\hat X_B & {}^A \hat Y_B & {}^A\hat Z_B
+\end{bmatrix}
+=
+\begin{bmatrix}
+\hat X_B \dot {}^A\hat X_A & \hat X_B \dot {}^A \hat Y_A & \hat X_B \dot {}^A\hat Z_A \\
+\hat Y_B \dot {}^A\hat X_A & \hat Y_B \dot {}^A \hat Y_A & \hat Y_B \dot {}^A\hat Z_A \\
+\hat Z_B \dot {}^A\hat X_A & \hat Z_B \dot {}^A \hat Y_A & \hat Z_B \dot {}^A\hat Z_A \\
+\end{bmatrix}
+
+$$
+
+
