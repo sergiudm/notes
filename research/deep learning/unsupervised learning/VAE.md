@@ -13,3 +13,13 @@ $$
 $$
 \text{ELBO}[\boldsymbol{\theta}, \phi] = \int q(\mathbf{z}|\boldsymbol{\theta}) \log \left[ \frac{Pr(\mathbf{x}, \mathbf{z}|\phi)}{q(\mathbf{z}|\boldsymbol{\theta})} \right] d\mathbf{z}
 $$
+$$
+\begin{aligned}
+\text{ELBO}[\boldsymbol{\theta}, \phi] &= \int q(\mathbf{z}|\boldsymbol{\theta}) \log \left[ \frac{Pr(\mathbf{x}, \mathbf{z}|\phi)}{q(\mathbf{z}|\boldsymbol{\theta})} \right] d\mathbf{z} \\
+&= \int q(\mathbf{z}|\boldsymbol{\theta}) \log \left[ \frac{Pr(\mathbf{z}|\mathbf{x}, \phi)Pr(\mathbf{x}|\phi)}{q(\mathbf{z}|\boldsymbol{\theta})} \right] d\mathbf{z} \\
+&= \int q(\mathbf{z}|\boldsymbol{\theta}) \log[Pr(\mathbf{x}|\phi)] d\mathbf{z} + \int q(\mathbf{z}|\boldsymbol{\theta}) \log \left[ \frac{Pr(\mathbf{z}|\mathbf{x}, \phi)}{q(\mathbf{z}|\boldsymbol{\theta})} \right] d\mathbf{z} \\
+&= \log[Pr(\mathbf{x}|\phi)] + \int q(\mathbf{z}|\boldsymbol{\theta}) \log \left[ \frac{Pr(\mathbf{z}|\mathbf{x}, \phi)}{q(\mathbf{z}|\boldsymbol{\theta})} \right] d\mathbf{z} \\
+&= \log[Pr(\mathbf{x}|\phi)] - D_{KL} \Big[ q(\mathbf{z}|\boldsymbol{\theta}) || Pr(\mathbf{z}|\mathbf{x}, \phi) \Big]
+\end{aligned}
+$$
+
