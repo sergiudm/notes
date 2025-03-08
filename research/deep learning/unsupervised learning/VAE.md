@@ -32,4 +32,10 @@ $$
 \end{aligned}
 $$
 
-the first term measures the average agreement $Pr(x|z, ϕ)$ of the latent variable and the data. This measures the reconstruction accuracy. The second term measures the degree to which the auxiliary distribution $q(z|θ)$ matches the prior
+the first term measures the average agreement $Pr(x|z, ϕ)$ of the latent variable and the data. This measures the reconstruction accuracy. The second term measures the degree to which the auxiliary distribution $q(z|θ)$ matches the prior.
+
+In practice:
+$$
+\text{ELBO}[\boldsymbol{\theta}, \phi] \approx \log[Pr(\mathbf{x}|\mathbf{z}^{*}, \phi)] - D_{KL} \Big[ q(\mathbf{z}|\mathbf{x}, \boldsymbol{\theta}) || Pr(\mathbf{z}) \Big]
+$$
+
