@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/deep learning/unsupervised learning/VAE.md",
+                "file": "research/deep learning/unsupervised learning/diffusion.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "VAE"
+              "title": "diffusion"
             }
           }
         ]
@@ -213,9 +213,9 @@
   },
   "active": "52943d0b4cf5f22b",
   "lastOpenFiles": [
+    "research/deep learning/unsupervised learning/VAE.md",
     "images/Screenshot 2025-03-09 at 3.08.36 AM.png",
     "research/deep learning/unsupervised learning/autoregressive models.md",
-    "research/deep learning/unsupervised learning/VAE.md",
     "images/Screenshot 2025-03-09 at 2.32.54 AM.png",
     "research/deep learning/unsupervised learning/diffusion.md",
     "SUSTechLearning/robotic motion and control/spatial description and homogeneous transformation.md",
@@ -251,7 +251,6 @@
     "images/Pasted image 20250219152643.png",
     "others",
     "SUSTechLearning/robotic motion and control",
-    "images/Pasted image 20250217174228.png",
     "research/deep learning/linear attention/lightning attention.md",
     "SUSTechLearning/optimal control and estimation",
     "research/deep learning/libraries/Pytorch.md",
