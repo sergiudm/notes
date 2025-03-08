@@ -15,4 +15,4 @@ p_z
 $$
 
 ## orientation
-${}^A_R$:
+${}^A_B R$: frame B is rotated by an angle $\theta$ about the axis ${}^A n$
