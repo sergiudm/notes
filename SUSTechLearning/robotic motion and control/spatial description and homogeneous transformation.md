@@ -31,6 +31,7 @@ $$
 \hat Z_B \dot {}^A\hat X_A & \hat Z_B \dot {}^A \hat Y_A & \hat Z_B \dot {}^A\hat Z_A \\
 \end{bmatrix}
 $$
+because the columns of ${}^A_B R$ are the unit vectors of {B} written in {A}, the rows of ${}^A_B R$ are the unit vectors of {A} written in {B}.
 
 ### frame
 A frame is depicted by three arrows representing unit
