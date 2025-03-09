@@ -47,3 +47,26 @@ $$
 {}^A P = {}^B P + {}^A P_{BORG}
 $$
 ### Mappings Involving Rotated Frames
+$$
+{}^A P = {}^A_B R {}^B P
+$$
+This  implements a mapping—that is, it changes the description of a
+vector—from ${}^BP$, which describes a point in space relative to {B}, into ${}^AP$, which is
+a description of the same point, but expressed relative to {A}.
+
+### Mappings Involving General Frames
+$$
+{}^A P = {}^A_B R {}^B P + {}^A P_{BORG}
+$$
+#### Homogeneous Transformation
+$$
+\begin{bmatrix}
+{}^A P \\
+1
+\end{bmatrix}
+=
+\begin{bmatrix}
+{}^A_B R & {}^A P_{BORG} \\
+0 & 1
+\end{bmatrix}
+$$
