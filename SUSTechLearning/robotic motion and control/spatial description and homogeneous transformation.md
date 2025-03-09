@@ -68,4 +68,9 @@ $$
 {}^A_B R & {}^A P_{BORG} \\
 0 & 1
 \end{bmatrix}
+\begin{bmatrix}
+{}^BP \\
+1
+\end{bmatrix}
 $$
+
