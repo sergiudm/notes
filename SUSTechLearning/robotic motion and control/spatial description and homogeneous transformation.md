@@ -1,7 +1,4 @@
 ## Notation
-## frame
-a coordinate system, {A}, with three mutually
-orthogonal unit vectors.
 ## position
  a point ${}^A P$ is represented as a vector and
 can equivalently be thought of as a position in space.
@@ -33,7 +30,14 @@ $$
 \hat Y_B \dot {}^A\hat X_A & \hat Y_B \dot {}^A \hat Y_A & \hat Y_B \dot {}^A\hat Z_A \\
 \hat Z_B \dot {}^A\hat X_A & \hat Z_B \dot {}^A \hat Y_A & \hat Z_B \dot {}^A\hat Z_A \\
 \end{bmatrix}
-
 $$
+
+## frame
+A frame is depicted by three arrows representing unit
+vectors defining the principal axes of the frame.
+$$
+\{B\} = \{{}^A_B \mathbf R, {}^A \mathbf P_{BORG}\}
+$$
+where $P_{BORG}$ is the origin of frame {B} in frame {A}.
 
 
