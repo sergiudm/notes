@@ -25,9 +25,9 @@ $$
 \end{bmatrix}
 =
 \begin{bmatrix}
-\hat X_B \hat X_A & \hat X_B \hat Y_A & \hat X_B \hat Z_A \\
-\hat Y_B \hat X_A & \hat Y_B \hat Y_A & \hat Y_B \hat Z_A \\
-\hat Z_B \hat X_A & \hat Z_B \hat Y_A & \hat Z_B \hat Z_A
+\hat X_B \hat X_A & \hat Y_B \hat X_A & \hat Z_B \hat X_A \\
+\hat X_B \hat Y_A & \hat Y_B \hat Y_A & \hat Z_B \hat Y_A \\
+\hat X_B \hat Z_A & \hat Y_B \hat Z_A & \hat Z_B \hat Z_A
 \end{bmatrix}
 $$
 because the columns of ${}^A_B R$ are the unit vectors of {B} written in {A}, the rows of ${}^A_B R$ are the unit vectors of {A} written in {B}.
