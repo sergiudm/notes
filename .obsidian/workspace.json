@@ -213,6 +213,7 @@
   },
   "active": "52943d0b4cf5f22b",
   "lastOpenFiles": [
+    "index.md",
     "mkdocs.yml",
     "research/deep learning/unsupervised learning/diffusion.md",
     "research/deep learning/unsupervised learning/VAE.md",
@@ -257,7 +258,6 @@
     "research/deep learning/libraries/Pytorch.md",
     "research/deep learning/libraries/jax.md",
     "research/deep learning/libraries",
-    "research/deep learning/unsupervised learning",
-    "research/deep learning/linear attention"
+    "research/deep learning/unsupervised learning"
   ]
 }
