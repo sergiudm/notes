@@ -11,10 +11,9 @@ p_z
 \end{bmatrix}
 $$
 
-### orientation
-${}^A_B R$: 
+### orientation ${}^A_B \mathbf R$: 
 $$
-{}^A_B R = \begin{bmatrix}
+{}^A_B \mathbf R = \begin{bmatrix}
 {}^A\hat X_B & {}^A \hat Y_B & {}^A\hat Z_B
 \end{bmatrix}
 $$
