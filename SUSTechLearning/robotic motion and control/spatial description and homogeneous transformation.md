@@ -1,5 +1,5 @@
 ## Notation
-## position
+### position
  a point ${}^A P$ is represented as a vector and
 can equivalently be thought of as a position in space.
 Individual elements of a vector are given the subscripts x, y, and z:
@@ -11,7 +11,7 @@ p_z
 \end{bmatrix}
 $$
 
-## orientation
+### orientation
 ${}^A_B R$: 
 $$
 {}^A_B R = \begin{bmatrix}
@@ -32,7 +32,7 @@ $$
 \end{bmatrix}
 $$
 
-## frame
+### frame
 A frame is depicted by three arrows representing unit
 vectors defining the principal axes of the frame.
 $$
@@ -40,4 +40,9 @@ $$
 $$
 where $P_{BORG}$ is the origin of frame {B} in frame {A}.
 
-
+## mapping
+### Mappings Involving Translated Frames
+$$
+{}^A P = {}^B P + {}^A P_{BORG}
+$$
+### Mappings Involving Rotated Frames
