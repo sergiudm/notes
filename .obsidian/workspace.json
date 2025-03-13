@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUSTechLearning/robotic motion and control/operators.md",
+                "file": "research/deep learning/CNN.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "operators"
+              "title": "CNN"
             }
           }
         ]
@@ -213,8 +213,11 @@
   },
   "active": "52943d0b4cf5f22b",
   "lastOpenFiles": [
-    "SUSTechLearning/robotic motion and control/spatial description and homogeneous transformation.md",
+    "research/deep learning/CNN.md",
+    "research/deep learning/rnn.md",
+    "research/deep learning/how to train NNs.md",
     "SUSTechLearning/robotic motion and control/operators.md",
+    "SUSTechLearning/robotic motion and control/spatial description and homogeneous transformation.md",
     "index.md",
     "mkdocs.yml",
     "research/deep learning/unsupervised learning/diffusion.md",
@@ -236,7 +239,6 @@
     "CS/OS",
     "research/docker/基本概念.md",
     "CS",
-    "research/deep learning/CNN.md",
     "research/deep learning/linear attention/RWKV.md",
     "research/deep learning/linear attention/mamba.md",
     "research/deep learning/linear attention/xlstm.md",
@@ -254,9 +256,7 @@
     "images/Pasted image 20250219152643.png",
     "others",
     "SUSTechLearning/robotic motion and control",
-    "research/deep learning/linear attention/lightning attention.md",
     "SUSTechLearning/optimal control and estimation",
-    "research/deep learning/libraries/Pytorch.md",
     "research/deep learning/libraries",
     "research/deep learning/unsupervised learning"
   ]

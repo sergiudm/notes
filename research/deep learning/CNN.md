@@ -14,4 +14,5 @@ Unpooling
 Downsampling
 Upsampling
 FCN
-Dense-net
+Dense-net or resnet
+- Drop-path
