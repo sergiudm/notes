@@ -78,3 +78,4 @@ $$
 {}^A_BR^T & -{}^A_BR^T {}^AP_{BORG}
 \\ 0 & 1
 \end{bmatrix}
+$$
