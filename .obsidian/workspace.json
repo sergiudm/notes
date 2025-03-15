@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/deep learning/CNN.md",
+                "file": "CE/docker.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CNN"
+              "title": "docker"
             }
           }
         ]
@@ -214,6 +214,8 @@
   "active": "52943d0b4cf5f22b",
   "lastOpenFiles": [
     "research/deep learning/CNN.md",
+    "CE/docker.md",
+    "CE",
     "research/deep learning/rnn.md",
     "research/deep learning/how to train NNs.md",
     "SUSTechLearning/robotic motion and control/operators.md",
@@ -250,14 +252,12 @@
     "research/deep learning/sparse attention/NSA.md",
     "SUSTechLearning/optimal control and estimation/lec1 control systems and linear algebra review.md",
     "research/deep learning/sparse attention",
-    "others/TOEFL.md",
     "images/Pasted image 20250219153351.png",
     "images/Pasted image 20250219153230.png",
     "images/Pasted image 20250219152643.png",
     "others",
     "SUSTechLearning/robotic motion and control",
     "SUSTechLearning/optimal control and estimation",
-    "research/deep learning/libraries",
-    "research/deep learning/unsupervised learning"
+    "research/deep learning/libraries"
   ]
 }
