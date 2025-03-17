@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CE/docker.md",
+                "file": "SUSTechLearning/optimal control and estimation/lec3 discretization of continuous system.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "docker"
+              "title": "lec3 discretization of continuous system"
             }
           }
         ]
@@ -213,8 +213,10 @@
   },
   "active": "52943d0b4cf5f22b",
   "lastOpenFiles": [
-    "research/deep learning/CNN.md",
+    "SUSTechLearning/optimal control and estimation/lec2 linearization of non-linear systems.md",
+    "SUSTechLearning/optimal control and estimation/lec3 discretization of continuous system.md",
     "CE/docker.md",
+    "research/deep learning/CNN.md",
     "CE",
     "research/deep learning/rnn.md",
     "research/deep learning/how to train NNs.md",
@@ -249,8 +251,6 @@
     "research/deep learning/sparse vision attention/DAT.md",
     "research/deep learning/sparse attention/MoBA.md",
     "research/deep learning/sparse vision attention",
-    "research/deep learning/sparse attention/NSA.md",
-    "SUSTechLearning/optimal control and estimation/lec1 control systems and linear algebra review.md",
     "research/deep learning/sparse attention",
     "images/Pasted image 20250219153351.png",
     "images/Pasted image 20250219153230.png",

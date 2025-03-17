@@ -1,4 +1,4 @@
-# linearization and taylor expansion
+# linearization and Taylor expansion
 ## Jacobian matrix
 ### Definition
 The Jacobian matrix is a matrix of all first-order partial derivatives of a vector-valued function. It is used to represent the rate of change of a vector-valued function with respect to a vector.
