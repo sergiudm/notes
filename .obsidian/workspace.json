@@ -213,8 +213,9 @@
   },
   "active": "52943d0b4cf5f22b",
   "lastOpenFiles": [
-    "SUSTechLearning/optimal control and estimation/lec2 linearization of non-linear systems.md",
+    "SUSTechLearning/optimal control and estimation/lec4 stability.md",
     "SUSTechLearning/optimal control and estimation/lec3 discretization of continuous system.md",
+    "SUSTechLearning/optimal control and estimation/lec2 linearization of non-linear systems.md",
     "CE/docker.md",
     "research/deep learning/CNN.md",
     "CE",
@@ -249,7 +250,6 @@
     "research/deep learning/sparse vision attention/deformable detr.md",
     "research/deep learning/sparse vision attention/swin.md",
     "research/deep learning/sparse vision attention/DAT.md",
-    "research/deep learning/sparse attention/MoBA.md",
     "research/deep learning/sparse vision attention",
     "research/deep learning/sparse attention",
     "images/Pasted image 20250219153351.png",
