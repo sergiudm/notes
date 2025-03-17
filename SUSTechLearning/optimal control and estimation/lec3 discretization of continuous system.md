@@ -11,9 +11,9 @@ $$
 So $A_d = I + \Delta t A, \quad B_d = \Delta t B, \quad C_c=C, \quad D_c=D$
 
 # ZOH method
-Durind $\Delta t$ ,  $\mathbf{u}(t) = \mathbf{u}[k]$ . The solution of SSM is:
+During $\Delta t$ ,  $\mathbf{u}(t) = \mathbf{u}[k]$ . The solution of SSM is:
 $$
 \mathbf{x}(t_{k+1}) = e^{A\Delta t} \mathbf{x}(t_k) + \int_{0}^{\Delta t} e^{A\tau} B \mathbf{u}[k] d\tau
 $$
 
-Thus $A_d = e^{A\Delta t}, \quad B_d = \int_{0}^{\Delta t} e^{A\tau} B d\tau$
+Thus $A_d = e^{A\Delta t}, \quad B_d = \int_{0}^{\Delta t} e^{A\tau} B d\tau, \quad C_c=C, \quad D_c=D$
