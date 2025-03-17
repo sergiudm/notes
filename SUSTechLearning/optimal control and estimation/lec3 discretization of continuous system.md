@@ -1,1 +1,1 @@
-# 
+# Euler method
