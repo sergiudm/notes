@@ -23,7 +23,7 @@ $$
     - link twist: $\alpha$
 - Link-connection Description
     - link offset: $d_i$
-    - joint angle: $\theta_i$
+    - joint angle (joint variable): $\theta_i$
 ![[Pasted image 20250319115739.png]]
 ## Convention for Affixing Frames to Links
 ### How to determine a frame 
