@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUSTechLearning/optimal control and estimation/lec3 discretization of continuous system.md",
+                "file": "SUSTechLearning/robotic motion and control/link_description.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "lec3 discretization of continuous system"
+              "title": "link_description"
             }
           }
         ]
@@ -213,8 +213,11 @@
   },
   "active": "52943d0b4cf5f22b",
   "lastOpenFiles": [
-    "SUSTechLearning/optimal control and estimation/lec4 stability.md",
+    "images/Pasted image 20250319115816.png",
+    "images/Pasted image 20250319115739.png",
+    "images/Pasted image 20250319115647.png",
     "SUSTechLearning/optimal control and estimation/lec3 discretization of continuous system.md",
+    "SUSTechLearning/optimal control and estimation/lec4 stability.md",
     "SUSTechLearning/optimal control and estimation/lec2 linearization of non-linear systems.md",
     "CE/docker.md",
     "research/deep learning/CNN.md",
@@ -249,12 +252,9 @@
     "research/deep learning/linear attention/xlstm.md",
     "research/deep learning/sparse vision attention/deformable detr.md",
     "research/deep learning/sparse vision attention/swin.md",
-    "research/deep learning/sparse vision attention/DAT.md",
     "research/deep learning/sparse vision attention",
     "research/deep learning/sparse attention",
     "images/Pasted image 20250219153351.png",
-    "images/Pasted image 20250219153230.png",
-    "images/Pasted image 20250219152643.png",
     "others",
     "SUSTechLearning/robotic motion and control",
     "SUSTechLearning/optimal control and estimation",
