@@ -26,6 +26,10 @@ $$
     - joint angle (joint variable): $\theta_i$
 ![[Pasted image 20250319115739.png]]
 ## Convention for Affixing Frames to Links
-### How to determine a frame 
+### How to determine a frame{i} attached to link i
+- Determine the z-axis:
+	- Z is coincident with the direction of axis i.
+- Determine the origin:
+	- Origin is defined as the intersection of 
 ![[Pasted image 20250319115816.png]]
 
