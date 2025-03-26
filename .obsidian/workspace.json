@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUSTechLearning/robotic motion and control/Inverse kinematics.md",
+                "file": "SUSTechLearning/robotic motion and control/link_description.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Inverse kinematics"
+              "title": "link_description"
             }
           }
         ]

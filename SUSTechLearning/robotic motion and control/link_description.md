@@ -33,3 +33,12 @@ $$
 	- Origin is defined as the intersection of 
 ![[Pasted image 20250319115816.png]]
 
+### How to determine D-H params
+$$
+\begin{align*}
+a_i &= \text{the distance from } \hat{Z}_i \text{ to } \hat{Z}_{i+1} \text{ measured along } \hat{X}_i; \\
+\alpha_i &= \text{the angle from } \hat{Z}_i \text{ to } \hat{Z}_{i+1} \text{ measured about } \hat{X}_i; \\
+d_i &= \text{the distance from } \hat{X}_{i-1} \text{ to } \hat{X}_i \text{ measured along } \hat{Z}_i; \text{ and} \\
+\theta_i &= \text{the angle from } \hat{X}_{i-1} \text{ to } \hat{X}_i \text{ measured about } \hat{Z}_i.
+\end{align*}
+$$
