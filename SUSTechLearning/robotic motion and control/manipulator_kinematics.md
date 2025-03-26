@@ -32,3 +32,4 @@ $$
     - same as task space, or operational space
     - the matrix of joint variables that describes the position and orientation of the robot’s end effector
 - actuator space:
+    - The sensors that measure the position of the manipulator are often located at the actuators, so some computations must be performed to realize the joint vector as a function of a set of actuator values, or actuator vector.
