@@ -44,8 +44,10 @@ $$
 - The Tool Frame:
 	- {T } is affixed to the end of any tool the robot happens to be holding.
 	- When the hand is empty, {T} is usually located with its origin between the fingertips of the robot.
+	- Where is the tool?
+		- $^{S}_{T}T = ^{B}_{S}T^{-1} \; ^{B}_{W}T \; ^{W}_{T}T$.
 - The Goal Frame:
 	- {G} is a description of the location to which the robot is to move the tool.
 	- At the end of the motion, the tool frame should be brought to coincidence with the goal frame.
 	- {G} is always specified relative to the station frame.
-![[Pasted image 20250326121611.png]]
+![[Pasted image 20250326122031.png]]
