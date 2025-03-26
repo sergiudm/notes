@@ -19,3 +19,9 @@ s\theta_i s\alpha_{i-1} & c\theta_i s\alpha_{i-1} & c\alpha_{i-1} & c\alpha_{i-1
 $$
 ## Concatenating Link Transformations
 The link transformations can be multiplied together to find the single transformation that relates frame {N} to frame {0}:
+$$
+^{0}_{N}T = ^{0}_{1}T ^{1}_{2}T ^{2}_{3}T \dots ^{N-1}_{N}T.
+$$
+>Note:
+> $^{0}_{N}T$ will be a function of all n joint variables. If the robot’s joint-position sensors are queried, the Cartesian position and orientation of the last link can be computed by $^{0}_{N}T$ .
+
