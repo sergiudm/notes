@@ -28,4 +28,7 @@ $$
 ## Actuator space, joint space, and Cartesian space
 - joint space:
     - an $n \times 1$ vector of joint variables
-- 
+- Cartesian space:
+    - same as task space, or operational space
+    - the matrix of joint variables that describes the position and orientation of the robot’s end effector
+- actuator space:
