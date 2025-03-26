@@ -25,3 +25,7 @@ $$
 >Note:
 > $^{0}_{N}T$ will be a function of all n joint variables. If the robot’s joint-position sensors are queried, the Cartesian position and orientation of the last link can be computed by $^{0}_{N}T$ .
 
+## Actuator space, joint space, and Cartesian space
+- joint space:
+    - an $n \times 1$ vector of joint variables
+- 
