@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUSTechLearning/robotic motion and control/link_description.md",
+                "file": "SUSTechLearning/robotic motion and control/manipulator_kinematics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "link_description"
+              "title": "manipulator_kinematics"
             }
           }
         ]
@@ -213,6 +213,8 @@
   },
   "active": "52943d0b4cf5f22b",
   "lastOpenFiles": [
+    "images/Pasted image 20250326110236.png",
+    "SUSTechLearning/robotic motion and control/link_description.md",
     "images/Pasted image 20250319115816.png",
     "images/Pasted image 20250319115739.png",
     "images/Pasted image 20250319115647.png",
@@ -251,10 +253,8 @@
     "research/deep learning/linear attention/mamba.md",
     "research/deep learning/linear attention/xlstm.md",
     "research/deep learning/sparse vision attention/deformable detr.md",
-    "research/deep learning/sparse vision attention/swin.md",
     "research/deep learning/sparse vision attention",
     "research/deep learning/sparse attention",
-    "images/Pasted image 20250219153351.png",
     "others",
     "SUSTechLearning/robotic motion and control",
     "SUSTechLearning/optimal control and estimation",
