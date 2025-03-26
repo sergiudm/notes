@@ -32,7 +32,6 @@ $$
 - Determine the origin:
 	- Origin is defined as the intersection of 
 ![[Pasted image 20250319115816.png]]
-
 ### How to determine D-H params
 $$
 \begin{align*}

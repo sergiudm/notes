@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUSTechLearning/robotic motion and control/manipulator_kinematics.md",
+                "file": "SUSTechLearning/robotic motion and control/link_description.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "manipulator_kinematics"
+              "title": "link_description"
             }
           }
         ]
@@ -213,11 +213,11 @@
   },
   "active": "52943d0b4cf5f22b",
   "lastOpenFiles": [
+    "SUSTechLearning/robotic motion and control/Inverse kinematics.md",
+    "SUSTechLearning/robotic motion and control/manipulator_kinematics.md",
     "images/Pasted image 20250326122031.png",
     "images/Pasted image 20250326121611.png",
     "SUSTechLearning/robotic motion and control/link_description.md",
-    "SUSTechLearning/robotic motion and control/Inverse kinematics.md",
-    "SUSTechLearning/robotic motion and control/manipulator_kinematics.md",
     "images/Pasted image 20250326110236.png",
     "images/Pasted image 20250319115816.png",
     "images/Pasted image 20250319115739.png",
@@ -244,7 +244,6 @@
     "images/Pasted image 20250228014302.png",
     "CS/OS/内存管理.md",
     "images/Pasted image 20250228013716.png",
-    "images/Pasted image 20250228012902.png",
     "CS/OS/构成.md",
     "CS/OS/overview.md",
     "research/deep learning/sparse vision attention/DCN.md",
