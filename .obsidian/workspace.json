@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUSTechLearning/robotic motion and control/spatial description and homogeneous transformation.md",
+                "file": "SUSTechLearning/robotic motion and control/Inverse kinematics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "spatial description and homogeneous transformation"
+              "title": "Inverse kinematics"
             }
           }
         ]
@@ -213,6 +213,7 @@
   },
   "active": "52943d0b4cf5f22b",
   "lastOpenFiles": [
+    "SUSTechLearning/robotic motion and control/spatial description and homogeneous transformation.md",
     "SUSTechLearning/robotic motion and control/foundation of robotics.md",
     "SUSTechLearning/robotic motion and control/link_description.md",
     "SUSTechLearning/robotic motion and control/Inverse kinematics.md",
@@ -232,7 +233,6 @@
     "research/deep learning/rnn.md",
     "research/deep learning/how to train NNs.md",
     "SUSTechLearning/robotic motion and control/operators.md",
-    "SUSTechLearning/robotic motion and control/spatial description and homogeneous transformation.md",
     "index.md",
     "mkdocs.yml",
     "research/deep learning/unsupervised learning/diffusion.md",
