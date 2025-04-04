@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUSTechLearning/robotic motion and control/Inverse kinematics.md",
+                "file": "SUSTechLearning/robotic motion and control/Velocities and Static Forces.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Inverse kinematics"
+              "title": "Velocities and Static Forces"
             }
           }
         ]
@@ -213,10 +213,11 @@
   },
   "active": "52943d0b4cf5f22b",
   "lastOpenFiles": [
+    "SUSTechLearning/robotic motion and control/Inverse kinematics.md",
+    "SUSTechLearning/robotic motion and control/Velocities and Static Forces.md",
     "SUSTechLearning/robotic motion and control/spatial description and homogeneous transformation.md",
     "SUSTechLearning/robotic motion and control/foundation of robotics.md",
     "SUSTechLearning/robotic motion and control/link_description.md",
-    "SUSTechLearning/robotic motion and control/Inverse kinematics.md",
     "SUSTechLearning/robotic motion and control/manipulator_kinematics.md",
     "images/Pasted image 20250326122031.png",
     "images/Pasted image 20250326121611.png",
