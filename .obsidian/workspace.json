@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUSTechLearning/robotic motion and control/Velocities and Static Forces.md",
+                "file": "research/deep learning/linear attention/sonta's blog.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Velocities and Static Forces"
+              "title": "sonta's blog"
             }
           }
         ]
@@ -213,8 +213,9 @@
   },
   "active": "52943d0b4cf5f22b",
   "lastOpenFiles": [
-    "SUSTechLearning/robotic motion and control/Inverse kinematics.md",
     "SUSTechLearning/robotic motion and control/Velocities and Static Forces.md",
+    "research/deep learning/linear attention/sonta's blog.md",
+    "SUSTechLearning/robotic motion and control/Inverse kinematics.md",
     "SUSTechLearning/robotic motion and control/spatial description and homogeneous transformation.md",
     "SUSTechLearning/robotic motion and control/foundation of robotics.md",
     "SUSTechLearning/robotic motion and control/link_description.md",
@@ -252,7 +253,6 @@
     "research/docker/基本概念.md",
     "CS",
     "research/deep learning/linear attention/RWKV.md",
-    "research/deep learning/linear attention/mamba.md",
     "research/deep learning/sparse vision attention",
     "research/deep learning/sparse attention",
     "others",
