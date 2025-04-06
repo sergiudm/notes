@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/deep learning/linear attention/sonta's blog.md",
+                "file": "SUSTechLearning/robotic motion and control/Inverse kinematics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "sonta's blog"
+              "title": "Inverse kinematics"
             }
           }
         ]
@@ -213,8 +213,8 @@
   },
   "active": "52943d0b4cf5f22b",
   "lastOpenFiles": [
-    "SUSTechLearning/robotic motion and control/Velocities and Static Forces.md",
     "research/deep learning/linear attention/sonta's blog.md",
+    "SUSTechLearning/robotic motion and control/Velocities and Static Forces.md",
     "SUSTechLearning/robotic motion and control/Inverse kinematics.md",
     "SUSTechLearning/robotic motion and control/spatial description and homogeneous transformation.md",
     "SUSTechLearning/robotic motion and control/foundation of robotics.md",
