@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUSTechLearning/robotic motion and control/Inverse kinematics.md",
+                "file": "SUSTechLearning/optimal control and estimation/optimal control/最优控制review.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Inverse kinematics"
+              "title": "最优控制review"
             }
           }
         ]
@@ -211,21 +211,29 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "52943d0b4cf5f22b",
+  "active": "8425e6989abaad77",
   "lastOpenFiles": [
+    "SUSTechLearning/robotic motion and control/Inverse kinematics.md",
+    "SUSTechLearning/optimal control and estimation/optimal control/attachments/Pasted image 20250415205645.png",
+    "SUSTechLearning/optimal control and estimation/optimal control/attachments/Pasted image 20250415205357.png",
+    "SUSTechLearning/optimal control and estimation/optimal control/attachments/Pasted image 20250415205205.png",
+    "SUSTechLearning/optimal control and estimation/optimal control/attachments/Pasted image 20250415205113.png",
+    "SUSTechLearning/optimal control and estimation/optimal control/attachments/Pasted image 20250415204617.png",
+    "SUSTechLearning/optimal control and estimation/optimal control/attachments/Pasted image 20250415204605.png",
+    "SUSTechLearning/optimal control and estimation/optimal control/attachments/Pasted image 20250415202937.png",
+    "SUSTechLearning/optimal control and estimation/optimal control/attachments/Pasted image 20250415202736.png",
+    "SUSTechLearning/optimal control and estimation/optimal control/attachments/Pasted image 20250415202724.png",
+    "SUSTechLearning/optimal control and estimation/optimal control/attachments/Pasted image 20250415003213.png",
+    "SUSTechLearning/optimal control and estimation/optimal control/attachments",
+    "SUSTechLearning/optimal control and estimation/optimal control/最优控制review.md",
+    "SUSTechLearning/optimal control and estimation/optimal control",
+    "Untitled",
     "research/deep learning/linear attention/sonta's blog.md",
     "SUSTechLearning/robotic motion and control/Velocities and Static Forces.md",
-    "SUSTechLearning/robotic motion and control/Inverse kinematics.md",
     "SUSTechLearning/robotic motion and control/spatial description and homogeneous transformation.md",
     "SUSTechLearning/robotic motion and control/foundation of robotics.md",
     "SUSTechLearning/robotic motion and control/link_description.md",
     "SUSTechLearning/robotic motion and control/manipulator_kinematics.md",
-    "images/Pasted image 20250326122031.png",
-    "images/Pasted image 20250326121611.png",
-    "images/Pasted image 20250326110236.png",
-    "images/Pasted image 20250319115816.png",
-    "images/Pasted image 20250319115739.png",
-    "images/Pasted image 20250319115647.png",
     "SUSTechLearning/optimal control and estimation/lec3 discretization of continuous system.md",
     "SUSTechLearning/optimal control and estimation/lec4 stability.md",
     "SUSTechLearning/optimal control and estimation/lec2 linearization of non-linear systems.md",
@@ -239,25 +247,16 @@
     "mkdocs.yml",
     "research/deep learning/unsupervised learning/diffusion.md",
     "research/deep learning/unsupervised learning/VAE.md",
-    "images/Screenshot 2025-03-09 at 3.08.36 AM.png",
     "research/deep learning/unsupervised learning/autoregressive models.md",
-    "images/Screenshot 2025-03-09 at 2.32.54 AM.png",
     "CS/OS/进程和线程.md",
-    "images/Pasted image 20250228014302.png",
     "CS/OS/内存管理.md",
-    "images/Pasted image 20250228013716.png",
     "CS/OS/构成.md",
     "CS/OS/overview.md",
     "research/deep learning/sparse vision attention/DCN.md",
     "CS/OS",
-    "research/docker/基本概念.md",
     "CS",
-    "research/deep learning/linear attention/RWKV.md",
     "research/deep learning/sparse vision attention",
     "research/deep learning/sparse attention",
-    "others",
-    "SUSTechLearning/robotic motion and control",
-    "SUSTechLearning/optimal control and estimation",
-    "research/deep learning/libraries"
+    "others"
   ]
 }
