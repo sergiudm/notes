@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1c71e26c4ac52181",
+        "id": "e3e4c4cf3bdb7b7f",
         "type": "tabs",
         "children": [
           {
-            "id": "52943d0b4cf5f22b",
+            "id": "aea10a1fb3a6f3f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUSTechLearning/optimal control and estimation/optimal control/最优控制review.md",
+                "file": "research/deep learning/linear attention/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "最优控制review"
+              "title": "Untitled"
             }
           }
         ]
@@ -211,8 +211,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8425e6989abaad77",
+  "active": "aea10a1fb3a6f3f2",
   "lastOpenFiles": [
+    "SUSTechLearning/optimal control and estimation/optimal control/最优控制review.md",
+    "research/deep learning/linear attention/Untitled.md",
     "SUSTechLearning/robotic motion and control/Inverse kinematics.md",
     "SUSTechLearning/optimal control and estimation/optimal control/attachments/Pasted image 20250415205645.png",
     "SUSTechLearning/optimal control and estimation/optimal control/attachments/Pasted image 20250415205357.png",
@@ -225,7 +227,6 @@
     "SUSTechLearning/optimal control and estimation/optimal control/attachments/Pasted image 20250415202724.png",
     "SUSTechLearning/optimal control and estimation/optimal control/attachments/Pasted image 20250415003213.png",
     "SUSTechLearning/optimal control and estimation/optimal control/attachments",
-    "SUSTechLearning/optimal control and estimation/optimal control/最优控制review.md",
     "SUSTechLearning/optimal control and estimation/optimal control",
     "Untitled",
     "research/deep learning/linear attention/sonta's blog.md",
