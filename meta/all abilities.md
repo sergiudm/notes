@@ -1,1 +1,3 @@
-#  
+# Thinking
+# Communication
+# 
