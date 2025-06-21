@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meta/all abilities.md",
+                "file": "meta/framework.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "all abilities"
+              "title": "framework"
             }
           }
         ],
@@ -239,6 +239,7 @@
   "active": "6100bbd9be27089a",
   "lastOpenFiles": [
     "meta/all abilities.md",
+    "meta/framework.md",
     "meta",
     "research/deep learning/linear attention/MesaNet.md",
     "SUSTechLearning/optimal control and estimation/optimal control/最优控制review.md",
