@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "MesaNet"
             }
+          },
+          {
+            "id": "6100bbd9be27089a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "meta/all abilities.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "all abilities"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,10 +236,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aea10a1fb3a6f3f2",
+  "active": "6100bbd9be27089a",
   "lastOpenFiles": [
-    "SUSTechLearning/optimal control and estimation/optimal control/最优控制review.md",
+    "meta/all abilities.md",
+    "meta",
     "research/deep learning/linear attention/MesaNet.md",
+    "SUSTechLearning/optimal control and estimation/optimal control/最优控制review.md",
     "SUSTechLearning/robotic motion and control/Inverse kinematics.md",
     "SUSTechLearning/optimal control and estimation/optimal control/attachments/Pasted image 20250415205645.png",
     "SUSTechLearning/optimal control and estimation/optimal control/attachments/Pasted image 20250415205357.png",
@@ -228,7 +255,6 @@
     "SUSTechLearning/optimal control and estimation/optimal control/attachments/Pasted image 20250415003213.png",
     "SUSTechLearning/optimal control and estimation/optimal control/attachments",
     "SUSTechLearning/optimal control and estimation/optimal control",
-    "Untitled",
     "research/deep learning/linear attention/sonta's blog.md",
     "SUSTechLearning/robotic motion and control/Velocities and Static Forces.md",
     "SUSTechLearning/robotic motion and control/spatial description and homogeneous transformation.md",
@@ -252,8 +278,6 @@
     "CS/OS/进程和线程.md",
     "CS/OS/内存管理.md",
     "CS/OS/构成.md",
-    "CS/OS/overview.md",
-    "research/deep learning/sparse vision attention/DCN.md",
     "CS/OS",
     "CS",
     "research/deep learning/sparse vision attention",
