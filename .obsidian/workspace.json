@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "tips"
             }
+          },
+          {
+            "id": "328c9e3b43986f59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "health/BDNF.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "BDNF"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -236,10 +260,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "162ec86afa2ff0b6",
+  "active": "328c9e3b43986f59",
   "lastOpenFiles": [
-    "thoughts.md",
     "tips.md",
+    "health/BDNF.md",
+    "health",
+    "thoughts.md",
     "research/deep learning/linear attention/Untitled.md",
     "research/deep learning/linear attention/MesaNet.md",
     "meta/framework.md",
@@ -259,7 +285,6 @@
     "SUSTechLearning/optimal control and estimation/optimal control/attachments/Pasted image 20250415003213.png",
     "SUSTechLearning/optimal control and estimation/optimal control/attachments",
     "SUSTechLearning/optimal control and estimation/optimal control",
-    "Untitled",
     "research/deep learning/linear attention/sonta's blog.md",
     "SUSTechLearning/robotic motion and control/Velocities and Static Forces.md",
     "SUSTechLearning/robotic motion and control/spatial description and homogeneous transformation.md",
@@ -279,7 +304,6 @@
     "mkdocs.yml",
     "research/deep learning/unsupervised learning/diffusion.md",
     "research/deep learning/unsupervised learning/VAE.md",
-    "research/deep learning/unsupervised learning/autoregressive models.md",
     "CS/OS",
     "CS",
     "research/deep learning/sparse vision attention",
