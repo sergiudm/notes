@@ -11,10 +11,24 @@
             "id": "aea10a1fb3a6f3f2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "thoughts.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "thoughts"
             }
           }
         ]
@@ -199,6 +213,7 @@
   },
   "active": "aea10a1fb3a6f3f2",
   "lastOpenFiles": [
+    "thoughts.md",
     "research/deep learning/linear attention/Untitled.md",
     "research/deep learning/linear attention/MesaNet.md",
     "meta/framework.md",
@@ -240,7 +255,6 @@
     "research/deep learning/unsupervised learning/VAE.md",
     "research/deep learning/unsupervised learning/autoregressive models.md",
     "CS/OS/进程和线程.md",
-    "CS/OS/内存管理.md",
     "CS/OS",
     "CS",
     "research/deep learning/sparse vision attention",
