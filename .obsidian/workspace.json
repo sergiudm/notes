@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "thoughts"
             }
+          },
+          {
+            "id": "162ec86afa2ff0b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tips.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "tips"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,9 +236,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aea10a1fb3a6f3f2",
+  "active": "162ec86afa2ff0b6",
   "lastOpenFiles": [
     "thoughts.md",
+    "tips.md",
     "research/deep learning/linear attention/Untitled.md",
     "research/deep learning/linear attention/MesaNet.md",
     "meta/framework.md",
@@ -254,7 +280,6 @@
     "research/deep learning/unsupervised learning/diffusion.md",
     "research/deep learning/unsupervised learning/VAE.md",
     "research/deep learning/unsupervised learning/autoregressive models.md",
-    "CS/OS/进程和线程.md",
     "CS/OS",
     "CS",
     "research/deep learning/sparse vision attention",
