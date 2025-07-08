@@ -80,3 +80,5 @@ This is why emotionally significant events—your first kiss, a car accident, a 
 *   **They Prioritize by Emotion:** The **amygdala** ensures that emotionally significant memories are encoded more strongly and are easier to recall.
 
 This system is remarkably efficient but also explains why memory is fallible. Since memory is reconstructed, not replayed, it can be altered, biased, or have missing pieces each time it's brought to mind—a process known as **reconsolidation**.
+
+###  
