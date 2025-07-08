@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "thoughts.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 256.5
   },
   "right": {
     "id": "4c57bc3d185af364",
