@@ -11,52 +11,13 @@
             "id": "aea10a1fb3a6f3f2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "research/deep learning/linear attention/MesaNet.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "MesaNet"
-            }
-          },
-          {
-            "id": "6100bbd9be27089a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "meta/framework.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "framework"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -236,12 +197,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6100bbd9be27089a",
+  "active": "aea10a1fb3a6f3f2",
   "lastOpenFiles": [
-    "meta/all abilities.md",
-    "meta/framework.md",
-    "meta",
+    "research/deep learning/linear attention/Untitled.md",
     "research/deep learning/linear attention/MesaNet.md",
+    "meta/framework.md",
+    "meta/all abilities.md",
+    "meta",
     "SUSTechLearning/optimal control and estimation/optimal control/最优控制review.md",
     "SUSTechLearning/robotic motion and control/Inverse kinematics.md",
     "SUSTechLearning/optimal control and estimation/optimal control/attachments/Pasted image 20250415205645.png",
@@ -256,6 +218,7 @@
     "SUSTechLearning/optimal control and estimation/optimal control/attachments/Pasted image 20250415003213.png",
     "SUSTechLearning/optimal control and estimation/optimal control/attachments",
     "SUSTechLearning/optimal control and estimation/optimal control",
+    "Untitled",
     "research/deep learning/linear attention/sonta's blog.md",
     "SUSTechLearning/robotic motion and control/Velocities and Static Forces.md",
     "SUSTechLearning/robotic motion and control/spatial description and homogeneous transformation.md",
@@ -278,11 +241,9 @@
     "research/deep learning/unsupervised learning/autoregressive models.md",
     "CS/OS/进程和线程.md",
     "CS/OS/内存管理.md",
-    "CS/OS/构成.md",
     "CS/OS",
     "CS",
     "research/deep learning/sparse vision attention",
-    "research/deep learning/sparse attention",
-    "others"
+    "research/deep learning/sparse attention"
   ]
 }
