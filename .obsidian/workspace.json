@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tips.md",
+                "file": "meta/tips.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -54,33 +54,9 @@
               "icon": "lucide-file",
               "title": "tips"
             }
-          },
-          {
-            "id": "328c9e3b43986f59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "health/BDNF.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "BDNF"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -260,10 +236,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "328c9e3b43986f59",
+  "active": "8425e6989abaad77",
   "lastOpenFiles": [
-    "tips.md",
     "health/BDNF.md",
+    "meta/tips.md",
     "health",
     "thoughts.md",
     "research/deep learning/linear attention/Untitled.md",
