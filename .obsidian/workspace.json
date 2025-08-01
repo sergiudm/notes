@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts.md",
+                "file": "CE/code study/LLMs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "thoughts"
+              "title": "LLMs"
             }
           }
         ]
@@ -213,11 +213,13 @@
   },
   "active": "aea10a1fb3a6f3f2",
   "lastOpenFiles": [
+    "CE/code study",
+    "thoughts.md",
+    "CE/code study/LLMs.md",
     "research/deep learning/perplexity.md",
     "meta/tips.md",
     "health/BDNF.md",
     "health",
-    "thoughts.md",
     "research/deep learning/linear attention/Untitled.md",
     "research/deep learning/linear attention/MesaNet.md",
     "meta/framework.md",
@@ -252,9 +254,7 @@
     "research/deep learning/rnn.md",
     "research/deep learning/how to train NNs.md",
     "SUSTechLearning/robotic motion and control/operators.md",
-    "index.md",
     "mkdocs.yml",
-    "research/deep learning/unsupervised learning/diffusion.md",
     "CS/OS",
     "CS",
     "research/deep learning/sparse vision attention",
