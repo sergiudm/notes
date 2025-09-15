@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spanish/nationality.md",
+                "file": "spanish/conjugation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "nationality"
+              "title": "conjugation"
             }
           }
         ],
@@ -239,8 +239,9 @@
   },
   "active": "1dcf5f22d2c34450",
   "lastOpenFiles": [
-    "CE/docker.md",
     "spanish/nationality.md",
+    "spanish/conjugation.md",
+    "CE/docker.md",
     "spanish/los numeros.md",
     "spanish",
     "CE/code study",
@@ -281,7 +282,6 @@
     "research/deep learning/CNN.md",
     "CE",
     "research/deep learning/rnn.md",
-    "research/deep learning/how to train NNs.md",
     "mkdocs.yml",
     "CS/OS",
     "CS"
