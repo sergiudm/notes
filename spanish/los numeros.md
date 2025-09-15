@@ -19,3 +19,11 @@
 18 dieciocho
 19 diecinueve
 20 veinte
+28 veintiocho
+30 treinta
+32 treinta y tres
+34 treinta y cautro
+35 treinta y cinco
+41 cuarenta y uno
+52 cincuenta y dos
+91 noventa y uno
