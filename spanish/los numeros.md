@@ -14,7 +14,8 @@
 13 trece
 14 catroce
 15 quince
-16 dieceseis
-17 dieceseis
-18 dieceocho
-19 
+16 dieciseis
+17 dieciseis
+18 dieciocho
+19 diecinueve
+20 veinte
