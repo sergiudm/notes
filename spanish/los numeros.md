@@ -1,0 +1,20 @@
+0 cero
+1 uno
+2 dos
+3 tres
+4 cautro
+5 cinco
+6 seis
+7 siete
+8 ocho
+9 nueve
+10 diez
+11 once
+12 doce
+13 trece
+14 catroce
+15 quince
+16 dieceseis
+17 dieceseis
+18 dieceocho
+19 
